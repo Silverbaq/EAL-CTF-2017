@@ -1,0 +1,6 @@
+f6caf4a7b83cf8c7c065d83f578aabaf  usr/lib/arm-linux-gnueabihf/libglapi.so.0.0.0
+7f0d95ab544ef194372363bb93229ede  usr/share/bug/libglapi-mesa/control
+114f277e413ffae0a725cc024a955b47  usr/share/bug/libglapi-mesa/script
+e1cac9ec0317a5ebd1588525255c9128  usr/share/doc/libglapi-mesa/changelog.Debian.gz
+241ed682eeb4973b7b7ac9131624f31f  usr/share/doc/libglapi-mesa/copyright
+cf047963e24f834f288dad7987fdb907  usr/share/lintian/overrides/libglapi-mesa

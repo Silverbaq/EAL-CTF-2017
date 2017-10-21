@@ -1,0 +1,10 @@
+810e61cc223b4b47f208db429aae46a4  usr/lib/arm-linux-gnueabihf/gio/modules/libgioremote-volume-monitor.so
+5ad5d6619c3717926c6c7abf88299271  usr/lib/arm-linux-gnueabihf/gio/modules/libgvfsdbus.so
+355218e0db119e15d271a773ca9033af  usr/share/doc/gvfs/AUTHORS
+1c751b96aa924ba25d9ee3d1b7c1f338  usr/share/doc/gvfs/NEWS.gz
+53285e73360285d5c8557444c918d0f0  usr/share/doc/gvfs/README
+d17de82c9a85d7dad9bf743c374d3fc3  usr/share/doc/gvfs/TODO
+caac6b8b69e8a9d1c319e781fe0eca57  usr/share/doc/gvfs/changelog.Debian.gz
+aab9ca377effb954f508e69c1be2a628  usr/share/doc/gvfs/changelog.gz
+334978aba9b1a12476f5620e5826b4ad  usr/share/doc/gvfs/copyright
+111ca42964af403967fff32410312478  usr/share/lintian/overrides/gvfs

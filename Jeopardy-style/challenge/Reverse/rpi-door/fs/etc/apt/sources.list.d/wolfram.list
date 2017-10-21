@@ -1,0 +1,3 @@
+# Wolfram Research, Inc. APT Repository (for WolframEngine)
+
+deb http://repository.wolfram.com/raspbian/ stable non-free

@@ -1,0 +1,9 @@
+auto
+/usr/bin/keytool
+keytool.1.gz
+/usr/share/man/man1/keytool.1.gz
+
+/usr/lib/jvm/jdk-7-oracle-armhf/jre/bin/keytool
+317
+/usr/lib/jvm/jdk-7-oracle-armhf/man/man1/keytool.1.gz
+

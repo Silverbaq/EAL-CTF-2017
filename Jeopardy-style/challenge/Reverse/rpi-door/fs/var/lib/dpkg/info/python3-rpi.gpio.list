@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/python3-rpi.gpio
+/usr/share/doc/python3-rpi.gpio/copyright
+/usr/share/doc/python3-rpi.gpio/changelog.gz
+/usr/share/doc/python3-rpi.gpio/changelog.Debian.gz
+/usr/lib
+/usr/lib/python3
+/usr/lib/python3/dist-packages
+/usr/lib/python3/dist-packages/RPi
+/usr/lib/python3/dist-packages/RPi/GPIO.cpython-32mu.so
+/usr/lib/python3/dist-packages/RPi/__init__.py
+/usr/lib/python3/dist-packages/RPi.GPIO-0.5.4.egg-info

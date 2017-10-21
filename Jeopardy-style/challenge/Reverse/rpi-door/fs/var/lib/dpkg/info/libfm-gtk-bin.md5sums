@@ -1,0 +1,10 @@
+c870628adce8a82681b71c29ddc8c041  usr/bin/libfm-pref-apps
+dc74df5ca5bd68a2c3d415df74991d87  usr/share/applications/libfm-pref-apps.desktop
+d0de3e19ac932d9a8cdba4d3b43759b1  usr/share/doc/libfm-gtk-bin/changelog.Debian.gz
+2226b0c1b4417c5f5bff6f301f365d90  usr/share/doc/libfm-gtk-bin/copyright
+0a54b6d29d0a2dcaf7e529bdd7848ce4  usr/share/libfm/ui/app-chooser.ui
+5dc8c4a6c1889ba6d742d8fb12e4793c  usr/share/libfm/ui/ask-rename.ui
+c54a22f463841e3fac59dcad147ee759  usr/share/libfm/ui/exec-file.ui
+d74e7aceb154a301ef5455243cb23dc3  usr/share/libfm/ui/file-prop.ui
+347927f5647bbad470b576edd91310e9  usr/share/libfm/ui/preferred-apps.ui
+64e8b7ca964ee4ed528bf7ac3913d147  usr/share/libfm/ui/progress.ui

@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libQtXml.so.4.8.2
+/usr/share
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libqt4-xml
+/usr/share/doc
+/usr/share/doc/libqt4-xml
+/usr/share/doc/libqt4-xml/changelog.Debian.gz
+/usr/share/doc/libqt4-xml/LGPL_EXCEPTION.txt
+/usr/share/doc/libqt4-xml/copyright
+/usr/share/doc/libqt4-xml/changelog.gz
+/usr/lib/arm-linux-gnueabihf/libQtXml.so.4
+/usr/lib/arm-linux-gnueabihf/libQtXml.so.4.8

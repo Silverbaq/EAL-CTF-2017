@@ -1,0 +1,68 @@
+#!/bin/bash
+
+set -e
+
+if [ "$1" = configure ]; then
+
+    # Common functions for all install scripts
+
+    # install_alternatives program_base programs
+    install_alternatives() {
+        program_base="$1"
+        shift
+        for program in $*; do
+          if [[ -f "$program_base/$program" ]]; then
+            update-alternatives \
+            --install "/usr/bin/$program" "$program" "$program_base/$program" 317 \
+            --slave "/usr/share/man/man1/$program.1.gz" "$program.1.gz" "/usr/lib/jvm/jdk-7-oracle-armhf/man/man1/$program.1.gz"
+          fi
+        done
+    }
+
+    # install_alternatives_no_man program_base programs
+    install_no_man_alternatives() {
+        program_base="$1"
+        shift
+        for program in $*; do
+          if [[ -f "$program_base/$program" ]]; then
+            update-alternatives --install "/usr/bin/$program" "$program" "$program_base/$program" 317
+          fi
+        done
+    }
+
+    # install_browser_plugin link_path link_name plugin_name plugin
+    install_browser_plugin() {
+        local link_path="$1"
+        local link_name="$2"
+        local plugin_name="$3"
+        local plugin="$4"
+        [ -d "$link_path" ] || install -d -m 755 "$link_path"
+        if [[ -f "$plugin" ]]; then
+          update-alternatives --install "$link_path/$link_name" "$plugin_name" "$plugin" 317
+        fi
+    }
+
+if [ ! -e "/usr/lib/jvm/jdk-7-oracle-armhf/debian/info" ]; then
+    exit 0
+fi
+
+install_alternatives /usr/lib/jvm/jdk-7-oracle-armhf/jre/bin java keytool orbd pack200 rmid rmiregistry servertool tnameserv unpack200 policytool
+install_alternatives /usr/lib/jvm/jdk-7-oracle-armhf/jre/bin policytool
+if [ -n "" ]; then
+    install_no_man_alternatives /usr/lib/jvm/jdk-7-oracle-armhf/jre/bin 
+fi
+install_no_man_alternatives /usr/lib/jvm/jdk-7-oracle-armhf/jre/lib jexec
+install_alternatives /usr/lib/jvm/jdk-7-oracle-armhf/bin appletviewer extcheck idlj jar jarsigner javac javadoc javah javap jconsole jdb jinfo jmap jps jsadebugd jstack jstat jstatd native2ascii rmic serialver
+
+# No plugin for ARM architecture yet
+if [ "arm" != "arm" ]; then
+plugin_dir="/usr/lib/jvm/jdk-7-oracle-armhf/jre/lib/armhf"
+for b in mozilla;do
+	    install_browser_plugin "/usr/lib/$b/plugins" "libjavaplugin.so" "$b-javaplugin.so" "$plugin_dir/libnpjp2.so"
+done
+fi
+fi
+
+
+
+exit 0

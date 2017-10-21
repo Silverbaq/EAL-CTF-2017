@@ -1,0 +1,6 @@
+4070d06098b1b596b14c16b09bcf48ef  lib/arm-linux-gnueabihf/security/pam_ck_connector.so
+514efa981b289467a234b355c3a7a7f3  usr/share/doc/libpam-ck-connector/changelog.Debian.gz
+29e720c480ad94cbb73352f7f2d4d8c2  usr/share/doc/libpam-ck-connector/changelog.gz
+02cd41580d20b470b148fe1fb2319de0  usr/share/doc/libpam-ck-connector/copyright
+d9fe6a5161473a2ee1fe34d99493858a  usr/share/man/man8/pam_ck_connector.8.gz
+f627b3f64f757c96c9ca866b3d5b3c40  usr/share/pam-configs/consolekit

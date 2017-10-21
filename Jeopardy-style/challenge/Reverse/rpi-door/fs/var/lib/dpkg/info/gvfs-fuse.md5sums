@@ -1,0 +1,9 @@
+c82f602800fd4e7437489ecedd2febb0  usr/lib/gvfs/gvfs-fuse-daemon
+355218e0db119e15d271a773ca9033af  usr/share/doc/gvfs-fuse/AUTHORS
+1c751b96aa924ba25d9ee3d1b7c1f338  usr/share/doc/gvfs-fuse/NEWS.gz
+53285e73360285d5c8557444c918d0f0  usr/share/doc/gvfs-fuse/README
+d17de82c9a85d7dad9bf743c374d3fc3  usr/share/doc/gvfs-fuse/TODO
+caac6b8b69e8a9d1c319e781fe0eca57  usr/share/doc/gvfs-fuse/changelog.Debian.gz
+aab9ca377effb954f508e69c1be2a628  usr/share/doc/gvfs-fuse/changelog.gz
+334978aba9b1a12476f5620e5826b4ad  usr/share/doc/gvfs-fuse/copyright
+8166c5414108573ffa29deef341d8195  usr/share/lintian/overrides/gvfs-fuse

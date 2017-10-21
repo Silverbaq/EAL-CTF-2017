@@ -1,0 +1,17 @@
+Xsession: X session started for pi at mercredi 4 octobre 2017, 19:49:53 (UTC+0000)
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+lxpanel: config file must start from Global section
+lxpanel: can't start panel
+
+(lxpanel:2324): Gtk-CRITICAL **: IA__gtk_window_group_remove_window: assertion `GTK_IS_WINDOW (window)' failed
+
+** (lxpanel:2324): WARNING **: Config files are not found.
+
+/home/pi/.config/openbox/lxde-rc.xml:1: parser error : Document is empty
+
+^
+/home/pi/.config/openbox/lxde-rc.xml:1: parser error : Start tag expected, '<' not found
+
+^
+Obt-Message: /home/pi/.config/openbox/lxde-rc.xml is an empty XML document

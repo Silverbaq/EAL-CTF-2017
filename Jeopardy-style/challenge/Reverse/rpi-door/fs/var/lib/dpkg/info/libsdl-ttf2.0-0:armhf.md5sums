@@ -1,0 +1,6 @@
+62ab2c1ddfec8fa4a1a2a79a89c7a461  usr/lib/arm-linux-gnueabihf/libSDL_ttf-2.0.so.0.10.1
+b54497c5f8df8c672570af168052dd3d  usr/share/doc/libsdl-ttf2.0-0/README
+ef9b772a2d534acbd81ec8e5ea821ba5  usr/share/doc/libsdl-ttf2.0-0/changelog.Debian.gz
+fcbaba13902804e592ffa486d0cb62f5  usr/share/doc/libsdl-ttf2.0-0/changelog.gz
+10976578142a4cb8d93acc5926c9ef86  usr/share/doc/libsdl-ttf2.0-0/copyright
+ced041fd141c3373ba5a7df0a9bc4425  usr/share/lintian/overrides/libsdl-ttf2.0-0

@@ -1,0 +1,112 @@
+Template: shared/present-wolfram-eula
+Type: note
+Description: Wolfram - Raspberry Pi® Bundle License Agreement
+ .
+ Acceptance
+ .
+ This is a binding Agreement: read all terms; retain a copy.
+ .
+ The terms and conditions of this License Agreement are subject to change without notice from time to time in our sole discretion. We will notify You of amendments to these terms and conditions by posting them at http://www.wolfram.com/legal/agreements/wolfram-mathematica-raspberry-pi.html.
+ .
+ Carefully read the following terms and conditions before accessing, installing, or using the Software. By downloading the Product, or installing or using the Product, You are consenting to be bound by this License Agreement ("Agreement"). If You are not willing to accept the terms and conditions of this Agreement, You may not access, copy, install, or use the Product immediately return the entire Product to the source from which it was obtained, and uninstall, remove, and destroy any additional copies of the Product.
+ .
+ Definitions
+ .
+ WRI: Wolfram Research, Inc., 100 Trade Center Drive, Champaign, IL 61820-7237, USA.
+ .
+ You/Licensee: The individual or organization obtaining the Product. If You/Licensee agree to these terms on behalf of an organization, You represent to WRI that You are authorized to accept these terms on the organization's behalf.
+ .
+ Software: (1)Wolfram Language(TM); and (2)Wolfram Mathematica® (Raspberry Pi Pilot Release) comprised of the Wolfram Mathematica Interface(TM) (front end) and the Wolfram Engine(TM)(kernel), each provided by WRI under this Agreement.
+ .
+ Product: All the materials, including the Software, provided by WRI under this Agreement (whether by download or physical storage media), and data accessed on WRI's servers.
+ .
+ Intellectual Property Rights: Any and all rights existing from time to time under patent law, copyright law, trade secret law, trademark law, unfair competition law, and any and all other proprietary rights, and any and all applications, renewals, extensions, and restorations thereof.
+ .
+ Ownership
+ .
+ WRI is the sole owner of the Product with the exception of the portions licensed by WRI from third-party owners. WRI is the holder of the Intellectual Property Rights in the Product, including, without limitation, such aspects of the Software as its code, structure, sequence, organization, "look and feel", programming language, and compilations of command names, descriptors, and data. Use of the Product, unless pursuant to the terms of a license granted by WRI or as otherwise authorized by law, is an infringement of Intellectual Property Rights. When publishing academic or research papers for which the Product was used, the Product should be appropriately cited as a reference and/or described in a Methods section. Notwithstanding the obligation to provide acknowledgment stated above, no other right to use the names, marks, or other distinctions of the Product or WRI is granted.
+ .
+ Permitted Uses and Installations
+ .
+ Subject to the terms of this Agreement and Your acceptance thereof, WRI grants You a non-exclusive license to use the Product solely for personal or educational purposes on a Model A or Model B Raspberry Pi computer.
+ .
+ You are authorized to:
+ .
+ a. maintain one archival copy of the Software on storage media;
+ .
+ b. author and distribute Computable Document Format(TM) (CDF) files consistent with the licensing terms at http://www.wolfram.com/cdf/adopting-cdf/licensing-options.html.
+ .
+ Prohibited Uses
+ .
+ All uses of the Software and other elements of the Product not specifically stated in the Permitted Uses and Installations section of this Agreement are prohibited, including, without limitation:
+ .
+ a. directly or indirectly using the Product for commercial purposes;
+ .
+ b. decompiling, disassembling, or reverse engineering the Software;
+ .
+ c. modifying the Software in any manner, except those portions included as examples;
+ .
+ d. distributing, publishing, transferring, sublicensing, lending, leasing, renting, or otherwise making available the Product or any portion of the Software including collections of data, except as permitted at http://www.wolfram.com/components for distributing Product-generated code;
+ .
+ e. copying or allowing copying of the Product or any elements of the Product, except as permitted for the maintenance of an archival copy of the Software as allowed by the Permitted Uses and Installations section of this Agreement;
+ .
+ f. allowing access to the Product by any user other than Licensee, including, without limitation, access to the Product via a web server, which is only allowed pursuant to a valid webMathematica(TM) license agreement;
+ .
+ g. removing any copyright, trademark, or other proprietary notices from the Product;
+ .
+ h. using the Software for any illegal purpose or to create malicious programs, including but not limited to creating computer viruses and malware or denying computer bandwidth to WRI and its affiliates and users;
+ .
+ i. using a password, activation key, or other means of accessing the Software other than as specifically authorized by WRI; and
+ .
+ j. restricting third parties in receipt of Mathematica-generated FreeCDF(TM).cdf files from republishing or redistributing them by any means, including but not limited to rights management or terms of use, without the express consent of WRI.
+ .
+ Termination
+ .
+ This Agreement terminates in the event that You receive a license to use an upgraded version of the Product in place of this Product, which upgrade, as well as any other improvement or enhancement, WRI is under no obligation to provide. Should You receive an upgraded version of the Product and desire to continue concurrent use of the older version, this License Agreement shall merge with the upgraded License Agreement such that Your continued use will be allowed under the terms, conditions, and restrictions therein. Your license to use the Product terminates on the license expiration date, if one is indicated, or upon notice of a material breach that is not cured within 30 days of receipt of notice. Provisions of this Agreement that by their nature express ongoing rights or obligations shall survive the expiration or termination of this Agreement.
+ .
+ Online Services and Data
+ .
+ Certain functionality in the Product may require the Software to access collections of data available through external servers. WRI makes no warranty that access to such data will be uninterrupted or that the data itself will be error free. WRI reserves the right to restrict access to, add, update, modify, or remove collections of data based on availability, Your service subscription, or otherwise at WRI's discretion. You agree all data access and use shall be limited to the Permitted Uses, and agree not to access or use data collections in such a manner that could damage, disable, overburden, or impair the servers providing such data. You agree to only access collections of data through the intended Product interface. Data provided through WRI's online services constitutes protected intellectual property and may not be copied, distributed, used to construct a database, stored (in whole or in part) in databases for access by You or any third party, or provided or distributed through any database services containing all or part of such data. Access to these freely provided online services is limited and is provided to You at WRI's discretion, and may be terminated or restricted at any time.
+ .
+ Additional functionality in the Product allows You to access Wolfram|Alpha® data from within the Software. In addition to the general Online Services and Data terms and restrictions listed above, data and other results obtained through the Wolfram|Alpha functionality are subject to the Wolfram|Alpha Terms of Use at http://www.wolframalpha.com/termsofuse.html. Your use of this functionality indicates Your acceptance of these terms.
+ .
+ Limited Warranty, Disclaimer, and Indemnification
+ .
+ This freely provided product is received as-is, without warranty (express or implied).  WRI does not warrant that the Product is free from all errors and/or omissions, and in fact it may contain them. WRI makes no representations or warranties, express, statutory, or implied, with respect to the Product or the Software contained in the Product or data accessed thereby, including, without limitation, any implied warranties of merchantability, interoperability, or fitness for a particular purpose, all of which are expressly disclaimed. WRI does not warrant that the functions contained in the Product will meet Your requirements or that the operation of the Product will be uninterrupted or error free.
+ .
+ Some states do not allow the exclusion of implied warranties, so these may not apply to You, and Your rights may vary from state to state.
+ .
+ WRI, and its agents, representatives, and independent contractors, shall not be obligated to provide or be liable, under any circumstances, for providing information on or corrections to errors and/or omissions discovered at any time in the Product, whether or not they were aware of the errors and/or omissions. WRI does not recommend the use of the Product for applications in which errors and/or omissions could threaten life, injury, or significant loss. Personal safety is your responsibility:  You agree that WRI has no control over your use of the Product and that you are solely responsible for all safety precautions associated with your use of the Product.
+ .
+ WRI further disclaims all liability for any hazardous use of the product including but not limited to nuclear facilities, manned or unmanned aircraft or space navigation or communications systems, air traffic control, life support systems, firearms applications, explosives including pyrotechnics, robotics, medical devices, or any other applications in which the failure of the Product could cause death, personal injury, severe physical or environmental damage, or economic loss.
+ .
+ You agree to indemnify and hold harmless WRI and its licensors from any claims, loss, cost, damage, expense, or liability including reasonable legal fees arising out of or in connection with any injury, death, or property damage resulting from  your use of the Product.
+ .
+ This Agreement is governed by the laws of the State of Illinois in the United States of America without effect to any choice of law provisions.
+ .
+ Limited Damages
+ .
+ In no event shall WRI or its agents, representatives, and independent contractors be liable for any lost profits, lost use, lost benefits, or any consequential, indirect, incidental, special, or punitive damages, whether in contract, tort, or otherwise, even if WRI has been advised of the possibility of such damages. WRI's cumulative liability to You or any other party for any loss or damages resulting from any claims, demands, actions, or otherwise arising out of or relating to this Agreement shall not exceed the license fee paid for the Product. Some states do not allow certain limitations of damages, so the above limitations may not apply to You.
+ .
+ United States Federal Government Restricted Rights
+ .
+ If this Software is acquired by or on behalf of the US federal government, this provision applies. Use, duplication, or disclosure of this Software is subject to restrictions set forth in FAR 52.227-19 and DFAR 227.7200-227.7202-4, as applicable. The Software is "commercial computer software" and is licensed with only "Restricted Rights".
+ .
+ Trademarks
+ .
+ Mathematica is a registered trademark and webMathematica, MathLM, FreeCDF, and Computable Document Format are trademarks of Wolfram Research, Inc. Wolfram|Alpha is a registered trademark of Wolfram Alpha LLC. All other trademarks are the property of their respective owners.
+
+Template: shared/accepted-wolfram-eula
+Type: boolean
+Default: false
+Description: Do you accept the Wolfram - Raspberry Pi® Bundle License Agreement?
+ In order to install this package, you must accept the license terms, the
+ Wolfram - Raspberry Pi® Bundle License Agreement. Not accepting
+ will cancel the installation.
+
+Template: shared/error-wolfram-eula
+Type: error
+Description: Declined Wolfram - Raspberry Pi® Bundle License Agreement
+ If you do not agree to the Wolfram - Raspberry Pi® Bundle License Agreement you cannot install this software.
+ .
+ The installation of this package will be canceled.

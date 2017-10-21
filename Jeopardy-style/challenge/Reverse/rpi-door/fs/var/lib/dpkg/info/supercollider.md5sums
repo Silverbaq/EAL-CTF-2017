@@ -1,0 +1,82 @@
+37ce639797d5433fdcd942e1f53b62ab  usr/bin/sclang
+6c28f923840090e4e60ba2ba4581d6d9  usr/share/doc/supercollider/README
+6bcd36765df30227514cda68e576df50  usr/share/doc/supercollider/README LINUX.gz
+0e39ee87038ff292479af3ebb878b7a6  usr/share/doc/supercollider/changelog.Debian.gz
+dbdb7a1238788773548299bf86638b48  usr/share/doc/supercollider/changelog.gz
+7546b3995823e4e418587ddc45eee237  usr/share/doc/supercollider/copyright
+2e0a88d29003cee5ccaa27e79589d0fc  usr/share/doc/supercollider/examples/CocoaBridge/NSControl-SCWindow.scd
+0505c7bb08217a1df795010f72b21598  usr/share/doc/supercollider/examples/CocoaBridge/NSPopupButton.scd
+0775ba1a688c5eda6ae8a6dd9e9de60e  usr/share/doc/supercollider/examples/CocoaBridge/NSTableView.scd
+61d1a98be96fbdb30a593fde3cc2f3bf  usr/share/doc/supercollider/examples/CocoaBridge/SCNSObject control actions.scd
+6fb23ab891d2100098de44c1c1f83155  usr/share/doc/supercollider/examples/CocoaBridge/SCNSObjectsTest.scd.gz
+06ed599809186441a890bd425e4abe90  usr/share/doc/supercollider/examples/CocoaBridge/boolean.scd
+c73a7178066f8b072209dae2430226cc  usr/share/doc/supercollider/examples/CocoaBridge/notification.scd
+ac745c25cd6a1c4a6dd583a3e19266d2  usr/share/doc/supercollider/examples/GUI examples/ColorBrowser.scd.gz
+bd7e1850ebf3ce85ff99272629d1b409  usr/share/doc/supercollider/examples/GUI examples/GUI_examples1.scd.gz
+fd38bd16c43b05fa3a99e79cf4effd26  usr/share/doc/supercollider/examples/GUI examples/GUI_examples2.scd.gz
+eba557b0639e1880ecd58f643d6a5755  usr/share/doc/supercollider/examples/GUI examples/Nick's LetterGimmick.scd
+a6e3439571eb6e483491b82d27ec3e5b  usr/share/doc/supercollider/examples/GUI examples/SCScope view x,y plot.scd
+02d9548ef2ebceb4277cbb5c85ca2606  usr/share/doc/supercollider/examples/GUI examples/ScopeExample.scd
+661e230f387f7a06ae86098eb60f4f30  usr/share/doc/supercollider/examples/GUI examples/TwoMultiSlidersInOne.scd
+d528c572e2adbefbef07b2b7f5b6a5a0  usr/share/doc/supercollider/examples/GUI examples/analog-drum-tuner.scd.gz
+7bca7d2854a5800f59e0511d19c4bd86  usr/share/doc/supercollider/examples/GUI examples/rotary hommage duchamp.scd
+51e2c74ccb117a03632bf51bd022385c  usr/share/doc/supercollider/examples/GUI examples/scimage_animation.scd
+57f4c58e0fc5a2db456cbf6e1152027a  usr/share/doc/supercollider/examples/GUI examples/strike.scd
+02b47a76b256e326b4aa805238bea749  usr/share/doc/supercollider/examples/between_languages/fortran_supercollider.scd
+14fefb49023374cac7f524b1d63889eb  usr/share/doc/supercollider/examples/demonstrations/100 FM Synths.scd
+9ff11034a4d19e137eb6f228b28977fe  usr/share/doc/supercollider/examples/demonstrations/Atari2600.scd
+48f0574ee7b9895d86be80dfb667c3fb  usr/share/doc/supercollider/examples/demonstrations/Chaotic Patterns.scd.gz
+1c1ea52127d2cc3e256ab027c3028769  usr/share/doc/supercollider/examples/demonstrations/DemandingStudies.scd
+fb63f5d59dada32b4ad72aae8fcc92ee  usr/share/doc/supercollider/examples/demonstrations/DrumSynths.scd.gz
+8616591ae0e71452bf2606db00a89653  usr/share/doc/supercollider/examples/demonstrations/GetTheTwits.scd
+910b56090e9453e1e9013f9ae5683148  usr/share/doc/supercollider/examples/demonstrations/HarmonicsVoice.html
+48aae6204df8e5c26da5ba9b799a02d1  usr/share/doc/supercollider/examples/demonstrations/Modal Space.scd
+0a90cf9459c30f511c283be1d3220072  usr/share/doc/supercollider/examples/demonstrations/SC2-examples_1.scd.gz
+4f18b70d9cd352d1bcda3e96df376d8e  usr/share/doc/supercollider/examples/demonstrations/SC2-examples_2.scd.gz
+f60e8be4c3e34590c2de485a5d018eb5  usr/share/doc/supercollider/examples/demonstrations/SC_website_example.scd
+41d88036f1a401c1f001fa5ddaa38723  usr/share/doc/supercollider/examples/demonstrations/Theremin.scd
+c4c29bf095e64593f39013c5004ed5e0  usr/share/doc/supercollider/examples/demonstrations/TriggerBufferGranulator.scd
+abd63dbfd0ecd45d7ee52b8d7d630374  usr/share/doc/supercollider/examples/demonstrations/babbling brook.scd
+7d31135d03b48cf48fffe42a9bf87a2e  usr/share/doc/supercollider/examples/demonstrations/bit_reduction.scd
+0bae79926edf697a0eea3e33b304f3bb  usr/share/doc/supercollider/examples/demonstrations/env automation.scd
+91190ab2985e4fc416b5e94b779d6fff  usr/share/doc/supercollider/examples/demonstrations/fft.scd
+3629cbdd01f4ed178a7063120e2fe2b0  usr/share/doc/supercollider/examples/demonstrations/more graphs.scd.gz
+2dcd10d4033256f33b862347387e4366  usr/share/doc/supercollider/examples/demonstrations/oh yes more fibs.scd.gz
+db6159126113b03796ff89447c88e287  usr/share/doc/supercollider/examples/demonstrations/sc_onliner.scd
+fef54fb735d991068937bf75d81ec111  usr/share/doc/supercollider/examples/demonstrations/single_sample_feedback.scd
+9cf199f70254791ad930e87ba92e8d61  usr/share/doc/supercollider/examples/demonstrations/single_sample_feedback_02.scd
+dad61046b42d0bbde8f086f65dbcb80c  usr/share/doc/supercollider/examples/demonstrations/snare909.scd
+126be448f604fa549c6f156efd240635  usr/share/doc/supercollider/examples/misuse_and_hacks/generate_titles.scd
+54cc5539d651f674dc5531c945e9b669  usr/share/doc/supercollider/examples/misuse_and_hacks/redFrik2.scd
+13ccb8645fd721da1c7593d2aab160a3  usr/share/doc/supercollider/examples/misuse_and_hacks/redSnail.scd
+3b1761349bc2a256966c002174b8a930  usr/share/doc/supercollider/examples/misuse_and_hacks/redSnake.scd
+dbc051fa1cdbe33017fee0c12d78fb11  usr/share/doc/supercollider/examples/misuse_and_hacks/redWorm.scd
+53a01d65a643d6e810b8f47b86382e58  usr/share/doc/supercollider/examples/other/Exploring_SCLang.scd
+ddcebb9310d1819c35b7d1de79bc7d8b  usr/share/doc/supercollider/examples/other/KeyboardWindow.scd
+467219845db4a21366744a616fc7ea5f  usr/share/doc/supercollider/examples/other/keepyuppy.scd.gz
+cbee465512ad8470c2a9c1b32bb3d06f  usr/share/doc/supercollider/examples/other/quines.scd.gz
+fcf53dd5cc372103df80c7ffd82349b8  usr/share/doc/supercollider/examples/pieces/DreamHouse.scd
+d6399aa399d357fcb542de74515f3077  usr/share/doc/supercollider/examples/pieces/DrummerSynthDef.scd
+aacbe8416e69fc20dba07ad8eee49e03  usr/share/doc/supercollider/examples/pieces/Little_Man_From_Another_Place.scd
+6f45ff41bc88eafdc8ec52816207dd85  usr/share/doc/supercollider/examples/pieces/Poeme Symphonique.scd
+7c68b241b146f8765f9bb0857a76debb  usr/share/doc/supercollider/examples/pieces/RM-octaver.scd
+dd94e4e04170688232fc3ab3baf2a35e  usr/share/doc/supercollider/examples/pieces/Record Scratcher.scd
+ba8c1d4ee616cf7ca4be00998c93118b  usr/share/doc/supercollider/examples/pieces/Termite_College.scd.gz
+b7b464c2ac30d4745901a60960a139b9  usr/share/doc/supercollider/examples/pieces/Trains.scd
+da335273f57f7dcd7a3220ebd7ebc595  usr/share/doc/supercollider/examples/pieces/acid_otophilia.scd.gz
+67dfa37dd456b903c1e9d623e638be6b  usr/share/doc/supercollider/examples/pieces/aftergoeyvaerts.scd
+b14fb324900637d7d09246cad6ab6313  usr/share/doc/supercollider/examples/pieces/atheoryofharmony.scd
+ccbe2a11d3665b34aa22eea82e0aef6c  usr/share/doc/supercollider/examples/pieces/autohausen.scd.gz
+7063d6cc1377ad3e4f4e9213a14578b0  usr/share/doc/supercollider/examples/pieces/deap_sea.scd
+e509d22e420728adef7bcfce63f73338  usr/share/doc/supercollider/examples/pieces/hommage_a_duerer.scd
+88cdf3ae24ed2ada4e49786a908f773a  usr/share/doc/supercollider/examples/pieces/microhelix_study.scd.gz
+074326c385ac30b1bbd9817fa30d25f9  usr/share/doc/supercollider/examples/pieces/some_constellations.scd.gz
+3ed627e6f48a93ce36ece425df7cdbc4  usr/share/doc/supercollider/examples/pieces/spacelab.scd.gz
+e797b87d42c4c7921f38df28811ed514  usr/share/doc/supercollider/examples/research_and_tools/ASA.scd.gz
+ba1218c5e57d3ec7bf308f63d0942293  usr/share/doc/supercollider/examples/research_and_tools/Diamond.scd.gz
+2dd54a5abd8749423cc205443157c2eb  usr/share/doc/supercollider/examples/research_and_tools/SeminaireMusical.scd.gz
+c0d64f164c33aaa7af3b87a6201463d4  usr/share/doc/supercollider/examples/research_and_tools/ShepardTones SignalBuf.scd
+da88f1b54dd92fbd0158312a1dc0e18e  usr/share/doc/supercollider/examples/research_and_tools/html-help-color-fixer.scd.gz
+2b27cd2821dd31b9a6b818a021fd71a1  usr/share/doc/supercollider/examples/research_and_tools/trochoid curve.scd
+144df62c51fc90796dfe22ee1c4b81c8  usr/share/lintian/overrides/supercollider
+04fdb57fbbb7d43164999b6fb22e5fea  usr/share/man/man1/sclang.1.gz

@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libwayland-cursor.so.0.0.0
+/usr/lib/arm-linux-gnueabihf/libwayland-server.so.0.0.0
+/usr/lib/arm-linux-gnueabihf/libwayland-client.so.0.1.0
+/usr/share
+/usr/share/doc
+/usr/share/doc/libwayland0
+/usr/share/doc/libwayland0/changelog.Debian.gz
+/usr/share/doc/libwayland0/copyright
+/usr/lib/arm-linux-gnueabihf/libwayland-cursor.so.0
+/usr/lib/arm-linux-gnueabihf/libwayland-server.so.0
+/usr/lib/arm-linux-gnueabihf/libwayland-client.so.0

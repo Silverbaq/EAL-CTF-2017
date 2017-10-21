@@ -1,0 +1,6 @@
+7738bba4f1c3777936b1cdc30813f89c  usr/lib/libboost_iostreams.so.1.46.1
+ef7f213b58eac20fa98346d1871322de  usr/share/doc/libboost-iostreams1.46.1/NEWS.Debian.gz
+5bdedddebc1300a5bdce7c4d649ee0fc  usr/share/doc/libboost-iostreams1.46.1/README.Debian.gz
+f409119d6d11dc5cacbe078d9d5733a9  usr/share/doc/libboost-iostreams1.46.1/changelog.Debian.gz
+e66425771863c34de39265516529d049  usr/share/doc/libboost-iostreams1.46.1/copyright
+ce74605f4cd6f048a60f074066f64962  usr/share/lintian/overrides/libboost-iostreams1.46.1

@@ -1,0 +1,22 @@
+#!/bin/sh
+
+set -e
+
+case "${1}" in
+	remove|deconfigure)
+		update-alternatives --remove x-session-manager /usr/bin/startlxde
+		;;
+
+	upgrade|failed-upgrade)
+
+		;;
+
+	*)
+		echo "prerm called with unknown argument \`${1}'" >&2
+		exit 1
+		;;
+esac
+
+
+
+exit 0

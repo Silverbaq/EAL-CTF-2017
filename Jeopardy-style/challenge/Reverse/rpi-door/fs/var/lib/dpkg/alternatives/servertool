@@ -1,0 +1,9 @@
+auto
+/usr/bin/servertool
+servertool.1.gz
+/usr/share/man/man1/servertool.1.gz
+
+/usr/lib/jvm/jdk-7-oracle-armhf/jre/bin/servertool
+317
+/usr/lib/jvm/jdk-7-oracle-armhf/man/man1/servertool.1.gz
+

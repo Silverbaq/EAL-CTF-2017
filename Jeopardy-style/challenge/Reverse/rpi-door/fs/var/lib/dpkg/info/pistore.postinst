@@ -1,0 +1,78 @@
+#!/bin/sh
+# postinst script for pistore
+# This runs /after/ the pistore has been unpacked.
+# If you want things to happen before it's unpacked, you need a preinst script.
+
+#make sure permissions are set on our executables
+chmod +x "/usr/bin/""pistore"
+chown root:root "/usr/bin/""pistore"
+chmod +x "/usr/bin/""pistore""-desktop"
+chown root:root "/usr/bin/""pistore""-desktop"
+chmod +x "/usr/bin/""pistore_real"
+chown root:root "/usr/bin/""pistore_real"
+chmod +x "/usr/bin/""icreg"
+chown root:root "/usr/bin/""icreg"
+
+if [ -z "" ];
+then
+INSTALLPATH=/usr/share/indiecity/pistore
+else
+INSTALLPATH=/usr/share/indiecity//pistore
+fi
+
+if [ -z "$SUDO_USER" ]
+	then
+		USERNAME="$USER"
+else
+	USERNAME="$SUDO_USER"
+fi
+
+
+# Add the client to the 'Launcher' start menu.
+cp "$INSTALLPATH"/pistore.desktop /usr/share/applications
+
+# Add a soft link our to the desktop
+ln -s "$INSTALLPATH"/pistore.desktop /home/"$USERNAME"/Desktop
+
+#TODO Add link to all existing users? 
+#Add link to skeleton folder too so new users will get it too if set up with defaults
+ln -s "$INSTALLPATH"/pistore.desktop /etc/skel/
+
+# Register the protocol
+MIMEAPPSFILE="/usr/share/applications/mimeapps.list"
+touch $MIMEAPPSFILE
+awk '
+BEGIN { headerfound=0; linefound=0; searchline="x-scheme-handler/indiecity=pistore.desktop"; header="Added Associations";}
+$0~searchline {linefound=1;}
+/\[.*\]/ {
+        if( $0 ~ "\[" header "\]")
+        {
+                headerfound=1;
+        }
+        else
+        {
+                if( headerfound && !linefound)
+                {
+                        print searchline;
+			linefound=1;
+                }
+        }
+}
+{print}
+END {
+#append header and line if not found
+	if(!headerfound ){print "[" header "]";	}
+	if(!linefound ){print searchline;}
+}
+' $MIMEAPPSFILE > $MIMEAPPSFILE.new
+mv $MIMEAPPSFILE $MIMEAPPSFILE.bak
+mv $MIMEAPPSFILE.new $MIMEAPPSFILE
+
+# If the pistore was running previously, we want to restart it.
+if [ -e "/var/lib/indiecity/pistore/restartclient" ]
+	then
+		pistore
+		rm "/var/lib/indiecity/pistore/restartclient"
+fi
+
+exit 0

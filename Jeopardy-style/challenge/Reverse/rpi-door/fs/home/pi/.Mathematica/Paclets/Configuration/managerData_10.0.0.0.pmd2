@@ -1,0 +1,12 @@
+{"ManagerDataVersion" -> 1, "AllowInternet" -> True, 
+ "LastUpdatedSite" -> Null, "LastUpdatedSiteDate" -> Null, 
+ "LastUsedSite" -> Null, "LastUsedSiteDate" -> Null, 
+ "NumPacletsDownloaded" -> 0, "IsDataAutoUpdate" -> True, 
+ "IsDocAutoUpdate" -> True, "UseProxy" -> Automatic, "HTTPProxyHost" -> Null, 
+ "HTTPProxyPort" -> 0, "HTTPSProxyHost" -> Null, "HTTPSProxyPort" -> 0, 
+ "FTPProxyHost" -> Null, "FTPProxyPort" -> 0, "SocksProxyHost" -> Null, 
+ "SocksProxyPort" -> 0, "Disabled" -> {}, "DisabledTransient" -> {}, 
+ "LoadingAutomatic" -> {}, "LoadingStartup" -> {}, 
+ "LoadingAutomaticTransient" -> {}, "CachesValid" -> {"Linux-ARM"}, 
+ "PreloadData" -> {"Linux-ARM" -> {}}, "DeclareLoadData" -> 
+  {"Linux-ARM" -> {}}, "FunctionInformation" -> {"Linux-ARM" -> {}}}

@@ -1,0 +1,8 @@
+9b1ef6de2630296a8268b0ff3b30c1b5  usr/lib/scratch/plugins/so.CameraPlugin
+c90ad2a3879a7e5f07cd9be9ab0b0503  usr/lib/scratch/plugins/so.ScratchPlugin
+f172d77083837ce87e8281d861854765  usr/lib/scratch/plugins/so.UnicodePlugin
+37bd1b5fe7d0971c2d7bfde512faf444  usr/lib/scratch/plugins/so.WeDoPlugin
+3205fbd8d4ac9c73fcbc37a97c10bdf3  usr/share/doc/squeak-plugins-scratch/buildinfo.gz
+989eea02c448df288d5e9c967f14d812  usr/share/doc/squeak-plugins-scratch/changelog.Debian.gz
+c2c663c2be3f658edf113bfeab374a1f  usr/share/doc/squeak-plugins-scratch/copyright
+e4e4650fd768490edcbf4eece7b28433  usr/share/doc/squeak-plugins-scratch/scripts/run-scratch

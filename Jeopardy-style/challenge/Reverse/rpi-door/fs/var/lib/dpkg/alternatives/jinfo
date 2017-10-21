@@ -1,0 +1,9 @@
+auto
+/usr/bin/jinfo
+jinfo.1.gz
+/usr/share/man/man1/jinfo.1.gz
+
+/usr/lib/jvm/jdk-7-oracle-armhf/bin/jinfo
+317
+/usr/lib/jvm/jdk-7-oracle-armhf/man/man1/jinfo.1.gz
+

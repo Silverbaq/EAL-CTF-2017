@@ -1,0 +1,35 @@
+#! /bin/sh -e
+#
+# postinst script for the Debian idle-python3.2 package.
+# Written 1998 by Gregor Hoffleit <flight@debian.org>.
+#
+
+DIRLIST="/usr/lib/python3.2/idlelib"
+
+case "$1" in
+    configure|abort-upgrade|abort-remove|abort-deconfigure)
+
+        for i in $DIRLIST ; do
+	    python3.2 /usr/lib/python3.2/compileall.py -q $i
+	    if grep -sq '^byte-compile[^#]*optimize' /etc/python/debian_config
+	    then
+		python3.2 -O /usr/lib/python3.2/compileall.py -q $i
+	    fi
+	done
+    ;;
+
+    *)
+	echo "postinst called with unknown argument \`$1'" >&2
+	exit 1
+    ;;
+
+esac
+
+# Automatically added by dh_installmenu
+if [ "$1" = "configure" ] && [ -x "`which update-menus 2>/dev/null`" ]; then
+	update-menus
+fi
+# End automatically added section
+
+
+exit 0

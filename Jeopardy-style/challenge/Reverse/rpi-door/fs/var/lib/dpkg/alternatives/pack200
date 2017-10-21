@@ -1,0 +1,9 @@
+auto
+/usr/bin/pack200
+pack200.1.gz
+/usr/share/man/man1/pack200.1.gz
+
+/usr/lib/jvm/jdk-7-oracle-armhf/jre/bin/pack200
+317
+/usr/lib/jvm/jdk-7-oracle-armhf/man/man1/pack200.1.gz
+

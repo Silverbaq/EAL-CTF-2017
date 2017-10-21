@@ -1,0 +1,23 @@
+Points: 50
+
+Johnny is a new and fresh Computer Science student at EAL. He have always had a huge dream of becomming a programmer, make $dollars$ and get all the ladies (That's what programmers do, right?).
+
+For a long time, Johnny make a lot of cool applications while he was at this first school year. He make an application where he could click a button and an image changed to another one. He made an application where he could put in two numbers, click another button and it would show the sum of the two numbers... He even made an application that who do something in one case and something else in another - This is just amazing!!
+
+At some point in his education, he started learning about making network application. Now there was no turning back - All the options for remaking application was endless. He made an application that would give two numbers for addition and expect to recive a number as the result of the sum.
+
+Task: Telnet to the {address} port {port}
+Here you will receive a line with 2 numbers (seperated with a whitespace), sum them and return the result. This process will continue until the server has received enough answers to its questions.
+
+e.g.
+
+Input:
+5 6
+1 3
+11 22
+
+Output:
+11
+4
+33
+

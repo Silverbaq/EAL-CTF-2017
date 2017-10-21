@@ -1,0 +1,35 @@
+#! /bin/sh -e
+
+if [ "$1" = configure ]; then
+    (
+    files=$(dpkg -L python3.2 | sed -n '/^\/usr\/lib\/python3.2\/.*\.py$/p')
+	python3.2 /usr/lib/python3.2/py_compile.py $files
+	if grep -sq '^byte-compile[^#]*optimize' /etc/python/debian_config; then
+	    python3.2 -O /usr/lib/python3.2/py_compile.py $files
+	fi
+    )
+fi
+
+oldlocalsite=/usr/local/lib/python3.2/site-packages
+case "$1" in
+    configure|abort-upgrade|abort-remove|abort-deconfigure)
+	# issue #623057
+	if [ -d $oldlocalsite -a ! -h $oldlocalsite ]; then
+	    rmdir --ignore-fail-on-non-empty $oldlocalsite 2>/dev/null || true
+	fi
+    ;;
+
+    *)
+        echo "postinst called with unknown argument \`$1'" >&2
+        exit 1
+    ;;
+esac
+
+# Automatically added by dh_installmenu
+if [ "$1" = "configure" ] && [ -x "`which update-menus 2>/dev/null`" ]; then
+	update-menus
+fi
+# End automatically added section
+
+
+exit 0

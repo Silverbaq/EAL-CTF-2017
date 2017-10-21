@@ -1,0 +1,9 @@
+# Message-Id: <20090429221255.c92d5a3d.codehelp@debian.org>
+# http://lists.debian.org/debian-mentors/2009/04/msg00592.html
+#
+# libXm2, libMrm2
+# Those aren't particularly suitable library names, so you may want to
+# use a lintian override for now and use a more sensible name in a future
+# upstream release - again, a large step for a package of this size.
+#W: lesstif2: package-name-doesnt-match-sonames libMrm2 libXm2
+lesstif2 binary: package-name-doesnt-match-sonames

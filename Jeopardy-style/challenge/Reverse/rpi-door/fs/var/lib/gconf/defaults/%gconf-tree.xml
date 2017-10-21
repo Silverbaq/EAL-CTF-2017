@@ -1,0 +1,384 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="florence">
+				<dir name="style">
+					<entry name="focus_zoom" mtime="1435084152" type="schema" stype="float" owner="florence">
+						<local_schema locale="C" short_desc="scaling factor of the focused key">
+							<default type="float" value="1.3"/>
+							<longdesc>scaling factor of the focused key</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+				<dir name="layout">
+					<entry name="extensions" mtime="1435084152" type="schema" stype="string" owner="florence">
+						<local_schema locale="C" short_desc="List of colon-separated (:) extension names">
+							<default type="string">
+								<stringvalue>actionkys</stringvalue>
+							</default>
+							<longdesc>List of keyboard extensions names (colon-separated). extension names must be found in layout file</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="style" mtime="1435084152" type="schema" stype="string" owner="florence">
+						<local_schema locale="C" short_desc="Path of the layout style file">
+							<default type="string">
+								<stringvalue></stringvalue>
+							</default>
+							<longdesc>The layout style file contains the style to draw the keys of the keyboard</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="file" mtime="1435084152" type="schema" stype="string" owner="florence">
+						<local_schema locale="C" short_desc="Path of the layout file">
+							<default type="string">
+								<stringvalue></stringvalue>
+							</default>
+							<longdesc>The layout file contains the layout of the keys on the keyboard</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+				<dir name="colours">
+					<entry name="latched" mtime="1435084152" type="schema" stype="string" owner="florence">
+						<local_schema locale="C" short_desc="latched color">
+							<default type="string">
+								<stringvalue>#00FF00</stringvalue>
+							</default>
+							<longdesc>Color of the latched keys</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="mouseover" mtime="1435084152" type="schema" stype="string" owner="florence">
+						<local_schema locale="C" short_desc="Mouse over color">
+							<default type="string">
+								<stringvalue>#0000FF</stringvalue>
+							</default>
+							<longdesc>Color of the key when the mouse is over</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="activated" mtime="1435084152" type="schema" stype="string" owner="florence">
+						<local_schema locale="C" short_desc="Activated color">
+							<default type="string">
+								<stringvalue>#FF0000</stringvalue>
+							</default>
+							<longdesc>Color of the pressed keys</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="label_outline" mtime="1435084152" type="schema" stype="string" owner="florence">
+						<local_schema locale="C" short_desc="Text outline color">
+							<default type="string">
+								<stringvalue>#000000</stringvalue>
+							</default>
+							<longdesc>Color of the ouline of the labels. Must contrast with label color for better visibility.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="label" mtime="1435084152" type="schema" stype="string" owner="florence">
+						<local_schema locale="C" short_desc="Text color">
+							<default type="string">
+								<stringvalue>#FFFFFF</stringvalue>
+							</default>
+							<longdesc>Color of the labels of the keys</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="outline" mtime="1435084152" type="schema" stype="string" owner="florence">
+						<local_schema locale="C" short_desc="Outline color">
+							<default type="string">
+								<stringvalue>#808080</stringvalue>
+							</default>
+							<longdesc>Color of the outline of the keys</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="key" mtime="1435084152" type="schema" stype="string" owner="florence">
+						<local_schema locale="C" short_desc="key color">
+							<default type="string">
+								<stringvalue>#000000</stringvalue>
+							</default>
+							<longdesc>Color of the keys</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+				<dir name="window">
+					<entry name="opacity" mtime="1435084152" type="schema" stype="float" owner="florence">
+						<local_schema locale="C" short_desc="Opacity of the keyboard window">
+							<default type="float" value="100"/>
+							<longdesc>Sets the opacity of the keyboard window. Requires window manager compositing to work</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="keep_on_top" mtime="1435084152" type="schema" stype="bool" owner="florence">
+						<local_schema locale="C" short_desc="Bring back the keyboard to top.">
+							<default type="bool" value="true"/>
+							<longdesc>Periodically (each second) bring back the keyboard to top. This is useful for window managers not supporting the always_on_top hint.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="always_on_top" mtime="1435084152" type="schema" stype="bool" owner="florence">
+						<local_schema locale="C" short_desc="Keep the keyboard on top.">
+							<default type="bool" value="true"/>
+							<longdesc>Keep the keyboard window on top of other windows.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="task_bar" mtime="1435084152" type="schema" stype="bool" owner="florence">
+						<local_schema locale="C" short_desc="Appear in the task bar">
+							<default type="bool" value="false"/>
+							<longdesc>Make Florence appear in the task bar.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="keep_ratio" mtime="1435084152" type="schema" stype="bool" owner="florence">
+						<local_schema locale="C" short_desc="Keep window ratio when resizing window.">
+							<default type="bool" value="true"/>
+							<longdesc>The window proportions are kept intact while resizing the window.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="resizable" mtime="1435084152" type="schema" stype="bool" owner="florence">
+						<local_schema locale="C" short_desc="Allow to resize window.">
+							<default type="bool" value="true"/>
+							<longdesc>The keyboard window can be resized with the mouse.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="decorated" mtime="1435084152" type="schema" stype="bool" owner="florence">
+						<local_schema locale="C" short_desc="Decorate window">
+							<default type="bool" value="true"/>
+							<longdesc>Window has a title bar and buttons.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="transparent" mtime="1435084152" type="schema" stype="bool" owner="florence">
+						<local_schema locale="C" short_desc="Transparent mode">
+							<default type="bool" value="false"/>
+							<longdesc>To see the windows behind the keyboard.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="scaley" mtime="1435084152" type="schema" stype="float" owner="florence">
+						<local_schema locale="C" short_desc="Vertical scaling factor of the window">
+							<default type="float" value="20"/>
+							<longdesc>Sets the vertical size of the window and of the keys</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="scalex" mtime="1435084152" type="schema" stype="float" owner="florence">
+						<local_schema locale="C" short_desc="Horizontal scaling factor of the window">
+							<default type="float" value="20"/>
+							<longdesc>Sets the horizontal size of the window and of the keys</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="ypos" mtime="1435084152" type="schema" stype="int" owner="florence">
+						<local_schema locale="C" short_desc="Position along the Y axis">
+							<default type="int" value="0"/>
+							<longdesc>Vertical position of the keyboard window on the screen (in pixel).</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="xpos" mtime="1435084152" type="schema" stype="int" owner="florence">
+						<local_schema locale="C" short_desc="Position along the X axis">
+							<default type="int" value="0"/>
+							<longdesc>Horizontal position of the keyboard window on the screen (in pixel).</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+				<dir name="behaviour">
+					<entry name="startup_notification" mtime="1435084152" type="schema" stype="bool" owner="florence">
+						<local_schema locale="C" short_desc="Display a startup notification message.">
+							<default type="bool" value="true"/>
+							<longdesc>Display a notification message at startup explaining the basics.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="ramble_button" mtime="1435084152" type="schema" stype="bool" owner="florence">
+						<local_schema locale="C" short_desc="Use button to activate rambling.">
+							<default type="bool" value="true"/>
+							<longdesc>When this option is set, rambling starts on button push. No button is necessary when this option is unset.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="ramble_timer" mtime="1435084152" type="schema" stype="float" owner="florence">
+						<local_schema locale="C" short_desc="Time threshold for timer based ramble mode.">
+							<default type="float" value="300"/>
+							<longdesc>Amount of time in milliseconds before the key is automatically pressed.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="ramble_threshold2" mtime="1435084152" type="schema" stype="float" owner="florence">
+						<local_schema locale="C" short_desc="Distance threshold for distance based ramble mode for multiple key presses.">
+							<default type="float" value="3"/>
+							<longdesc>When ramble input method is selected, this the distance the pointer must move over a key (relative to the size of the key) for pressing a key a second time and more.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="ramble_threshold1" mtime="1435084152" type="schema" stype="float" owner="florence">
+						<local_schema locale="C" short_desc="Distance threshold for distance based ramble mode for first key press.">
+							<default type="float" value="1.3"/>
+							<longdesc>When ramble input method is selected, this the distance the pointer must move over a key (relative to the size of the key) before the key is pressed</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="ramble_algo" mtime="1435084152" type="schema" stype="string" owner="florence">
+						<local_schema locale="C" short_desc="Ramble algorithm">
+							<default type="string">
+								<stringvalue>distance</stringvalue>
+							</default>
+							<longdesc>Set the ramble algorithm used. Valid algorithms are distance and time.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timer" mtime="1435084152" type="schema" stype="float" owner="florence">
+						<local_schema locale="C" short_desc="Auto click timeout">
+							<default type="float" value="1300"/>
+							<longdesc>Time, in milliseconds, to wait when the mouse is over a key before the key is automatically pressed (when timer input method is selected)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="input_method" mtime="1435084152" type="schema" stype="string" owner="florence">
+						<local_schema locale="C" short_desc="Input method">
+							<default type="string">
+								<stringvalue>button</stringvalue>
+							</default>
+							<longdesc>Set the input method. Available input methods are button, timer and ramble.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="intermediate_icon" mtime="1435084152" type="schema" stype="bool" owner="florence">
+						<local_schema locale="C" short_desc="Show an intermediate icon before showing the keyboard in auto-hide mode.">
+							<default type="bool" value="true"/>
+							<longdesc>Show an intermediate icon when you click on an editable widget. Click on the icon to show the actual keyboard.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="move_to_widget" mtime="1435084152" type="schema" stype="bool" owner="florence">
+						<local_schema locale="C" short_desc="Move the keyboard to near the selected widget">
+							<default type="bool" value="false"/>
+							<longdesc>Move the keyboard to near the selected editable widget in auto-hide mode. Only useful when auto_hide is activated.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="hide_on_start" mtime="1435084152" type="schema" stype="bool" owner="florence">
+						<local_schema locale="C" short_desc="Hide the keyboard when Florence starts">
+							<default type="bool" value="false"/>
+							<longdesc>Florence will hide the keyboard window just after starting up.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="auto_hide" mtime="1435084152" type="schema" stype="bool" owner="florence">
+						<local_schema locale="C" short_desc="Hide the keyboard automatically when not needed">
+							<default type="bool" value="false"/>
+							<longdesc>Florence will hide automatically when no editable widget is selected.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+			<dir name="gksu">
+				<entry name="save-keyring" mtime="1435084152" type="schema" stype="string" owner="gksu">
+					<local_schema locale="C" short_desc="Keyring to which passwords will be saved">
+						<default type="string">
+							<stringvalue>session</stringvalue>
+						</default>
+						<longdesc>
+	The name of the keyring gksu should use. Usual values are &quot;session&quot;,
+	which saves the password for the session, and &quot;default&quot;, which saves the
+	password with no timeout.
+	</longdesc>
+					</local_schema>
+				</entry>
+				<entry name="save-to-keyring" mtime="1435084152" type="schema" stype="bool" owner="gksu">
+					<local_schema locale="C" short_desc="Save password to gnome-keyring">
+						<default type="bool" value="true"/>
+						<longdesc>
+	gksu can save the password you type to the gnome-keyring so you&apos;ll
+	not be asked everytime
+	</longdesc>
+					</local_schema>
+				</entry>
+				<entry name="display-no-pass-info" mtime="1435084152" type="schema" stype="bool" owner="gksu">
+					<local_schema locale="C" short_desc="Display information message when no password is needed">
+						<default type="bool" value="true"/>
+						<longdesc>
+	This option determines whether a message dialog will be displayed
+	informing the user that the program is being run without the need
+	of a password being asked for some reason.
+	</longdesc>
+					</local_schema>
+				</entry>
+				<entry name="prompt" mtime="1435084152" type="schema" stype="bool" owner="gksu">
+					<local_schema locale="C" short_desc="Prompt for grabbing">
+						<default type="bool" value="false"/>
+						<longdesc>
+	This option will make gksu prompt the user if he wants to have
+	the screen grabbed before entering the password. Notice that this
+	only has an effect if force-grab is disabled.
+	</longdesc>
+					</local_schema>
+				</entry>
+				<entry name="sudo-mode" mtime="1435084152" type="schema" stype="bool" owner="gksu">
+					<local_schema locale="C" short_desc="Sudo mode">
+						<default type="bool" value="false"/>
+						<longdesc>
+	Whether sudo should be the default backend method. This method
+        is otherwise accessed though the -S switch or by running &apos;gksudo&apos;
+        instead of &apos;gksu&apos;.
+	</longdesc>
+					</local_schema>
+				</entry>
+				<entry name="force-grab" mtime="1435084152" type="schema" stype="bool" owner="gksu">
+					<local_schema locale="C" short_desc="Force keyboard and mouse grab">
+						<default type="bool" value="false"/>
+						<longdesc>
+	Grab keyboard and mouse even if -g has been passed as argument
+	on the command line.
+	</longdesc>
+					</local_schema>
+				</entry>
+				<entry name="disable-grab" mtime="1435084152" type="schema" stype="bool" owner="gksu">
+					<local_schema locale="C" short_desc="Disable keyboard and mouse grab">
+						<default type="bool" value="false"/>
+						<longdesc>
+	Whether the keyboard and mouse grabbing should be turned
+	off. This will make it possible for other X applications to
+	listen to keyboard input events, thus making it not possible
+	to shield from malicious applications which may be running.
+	</longdesc>
+					</local_schema>
+				</entry>
+			</dir>
+		</dir>
+	</dir>
+	<dir name="apps">
+		<dir name="florence">
+			<dir name="style">
+				<entry name="focus_zoom" mtime="1435084152" schema="/schemas/apps/florence/style/focus_zoom"/>
+			</dir>
+			<dir name="layout">
+				<entry name="extensions" mtime="1435084152" schema="/schemas/apps/florence/layout/extensions"/>
+				<entry name="style" mtime="1435084152" schema="/schemas/apps/florence/layout/style"/>
+				<entry name="file" mtime="1435084152" schema="/schemas/apps/florence/layout/file"/>
+			</dir>
+			<dir name="colours">
+				<entry name="latched" mtime="1435084152" schema="/schemas/apps/florence/colours/latched"/>
+				<entry name="mouseover" mtime="1435084152" schema="/schemas/apps/florence/colours/mouseover"/>
+				<entry name="activated" mtime="1435084152" schema="/schemas/apps/florence/colours/activated"/>
+				<entry name="label_outline" mtime="1435084152" schema="/schemas/apps/florence/colours/label_outline"/>
+				<entry name="label" mtime="1435084152" schema="/schemas/apps/florence/colours/label"/>
+				<entry name="outline" mtime="1435084152" schema="/schemas/apps/florence/colours/outline"/>
+				<entry name="key" mtime="1435084152" schema="/schemas/apps/florence/colours/key"/>
+			</dir>
+			<dir name="window">
+				<entry name="opacity" mtime="1435084152" schema="/schemas/apps/florence/window/opacity"/>
+				<entry name="keep_on_top" mtime="1435084152" schema="/schemas/apps/florence/window/keep_on_top"/>
+				<entry name="always_on_top" mtime="1435084152" schema="/schemas/apps/florence/window/always_on_top"/>
+				<entry name="task_bar" mtime="1435084152" schema="/schemas/apps/florence/window/task_bar"/>
+				<entry name="keep_ratio" mtime="1435084152" schema="/schemas/apps/florence/window/keep_ratio"/>
+				<entry name="resizable" mtime="1435084152" schema="/schemas/apps/florence/window/resizable"/>
+				<entry name="decorated" mtime="1435084152" schema="/schemas/apps/florence/window/decorated"/>
+				<entry name="transparent" mtime="1435084152" schema="/schemas/apps/florence/window/transparent"/>
+				<entry name="scaley" mtime="1435084152" schema="/schemas/apps/florence/window/scaley"/>
+				<entry name="scalex" mtime="1435084152" schema="/schemas/apps/florence/window/scalex"/>
+				<entry name="ypos" mtime="1435084152" schema="/schemas/apps/florence/window/ypos"/>
+				<entry name="xpos" mtime="1435084152" schema="/schemas/apps/florence/window/xpos"/>
+			</dir>
+			<dir name="behaviour">
+				<entry name="startup_notification" mtime="1435084152" schema="/schemas/apps/florence/behaviour/startup_notification"/>
+				<entry name="ramble_button" mtime="1435084152" schema="/schemas/apps/florence/behaviour/ramble_button"/>
+				<entry name="ramble_timer" mtime="1435084152" schema="/schemas/apps/florence/behaviour/ramble_timer"/>
+				<entry name="ramble_threshold2" mtime="1435084152" schema="/schemas/apps/florence/behaviour/ramble_threshold2"/>
+				<entry name="ramble_threshold1" mtime="1435084152" schema="/schemas/apps/florence/behaviour/ramble_threshold1"/>
+				<entry name="ramble_algo" mtime="1435084152" schema="/schemas/apps/florence/behaviour/ramble_algo"/>
+				<entry name="timer" mtime="1435084152" schema="/schemas/apps/florence/behaviour/timer"/>
+				<entry name="input_method" mtime="1435084152" schema="/schemas/apps/florence/behaviour/input_method"/>
+				<entry name="intermediate_icon" mtime="1435084152" schema="/schemas/apps/florence/behaviour/intermediate_icon"/>
+				<entry name="move_to_widget" mtime="1435084152" schema="/schemas/apps/florence/behaviour/move_to_widget"/>
+				<entry name="hide_on_start" mtime="1435084152" schema="/schemas/apps/florence/behaviour/hide_on_start"/>
+				<entry name="auto_hide" mtime="1435084152" schema="/schemas/apps/florence/behaviour/auto_hide"/>
+			</dir>
+		</dir>
+		<dir name="gksu">
+			<entry name="save-keyring" mtime="1435084152" schema="/schemas/apps/gksu/save-keyring"/>
+			<entry name="save-to-keyring" mtime="1435084152" schema="/schemas/apps/gksu/save-to-keyring"/>
+			<entry name="display-no-pass-info" mtime="1435084152" schema="/schemas/apps/gksu/display-no-pass-info"/>
+			<entry name="prompt" mtime="1435084152" schema="/schemas/apps/gksu/prompt"/>
+			<entry name="sudo-mode" mtime="1435084152" schema="/schemas/apps/gksu/sudo-mode"/>
+			<entry name="force-grab" mtime="1435084152" schema="/schemas/apps/gksu/force-grab"/>
+			<entry name="disable-grab" mtime="1435084152" schema="/schemas/apps/gksu/disable-grab"/>
+		</dir>
+	</dir>
+</gconf>

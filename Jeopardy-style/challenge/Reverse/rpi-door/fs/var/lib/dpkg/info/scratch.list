@@ -1,0 +1,1210 @@
+/.
+/usr
+/usr/bin
+/usr/bin/scratch
+/usr/share
+/usr/share/icons
+/usr/share/icons/hicolor
+/usr/share/icons/hicolor/48x48
+/usr/share/icons/hicolor/48x48/mimetypes
+/usr/share/icons/hicolor/48x48/mimetypes/gnome-mime-application-x-scratch-project.png
+/usr/share/icons/hicolor/48x48/apps
+/usr/share/icons/hicolor/48x48/apps/scratch.png
+/usr/share/icons/hicolor/128x128
+/usr/share/icons/hicolor/128x128/mimetypes
+/usr/share/icons/hicolor/128x128/mimetypes/gnome-mime-application-x-scratch-project.png
+/usr/share/icons/hicolor/128x128/apps
+/usr/share/icons/hicolor/128x128/apps/scratch.png
+/usr/share/applications
+/usr/share/applications/scratch.desktop
+/usr/share/scratch
+/usr/share/scratch/Media
+/usr/share/scratch/Media/Sounds
+/usr/share/scratch/Media/Sounds/Human
+/usr/share/scratch/Media/Sounds/Human/Cough-female.wav
+/usr/share/scratch/Media/Sounds/Human/FingerSnap.wav
+/usr/share/scratch/Media/Sounds/Human/PartyNoise.wav
+/usr/share/scratch/Media/Sounds/Human/Laugh-male1.wav
+/usr/share/scratch/Media/Sounds/Human/Sneeze-male.wav
+/usr/share/scratch/Media/Sounds/Human/Scream-male1.wav
+/usr/share/scratch/Media/Sounds/Human/Sneeze-female.wav
+/usr/share/scratch/Media/Sounds/Human/Slurp.mp3
+/usr/share/scratch/Media/Sounds/Human/Laugh-male3.mp3
+/usr/share/scratch/Media/Sounds/Human/Laugh-male2.wav
+/usr/share/scratch/Media/Sounds/Human/Scream-male2.mp3
+/usr/share/scratch/Media/Sounds/Human/Footsteps-1.wav
+/usr/share/scratch/Media/Sounds/Human/Laugh-female.wav
+/usr/share/scratch/Media/Sounds/Human/BabyCry.mp3
+/usr/share/scratch/Media/Sounds/Human/Cough-male.wav
+/usr/share/scratch/Media/Sounds/Human/Scream-female.wav
+/usr/share/scratch/Media/Sounds/Human/Footsteps-2.mp3
+/usr/share/scratch/Media/Sounds/Percussion
+/usr/share/scratch/Media/Sounds/Percussion/HandClap.wav
+/usr/share/scratch/Media/Sounds/Percussion/CymbalCrash.wav
+/usr/share/scratch/Media/Sounds/Percussion/Shaker.wav
+/usr/share/scratch/Media/Sounds/Percussion/Gong.wav
+/usr/share/scratch/Media/Sounds/Percussion/DrumBuzz.wav
+/usr/share/scratch/Media/Sounds/Percussion/RideCymbal.wav
+/usr/share/scratch/Media/Sounds/Electronic
+/usr/share/scratch/Media/Sounds/Electronic/AlienCreak1.wav
+/usr/share/scratch/Media/Sounds/Electronic/Screech.wav
+/usr/share/scratch/Media/Sounds/Electronic/AlienCreak2.wav
+/usr/share/scratch/Media/Sounds/Electronic/Fairydust.wav
+/usr/share/scratch/Media/Sounds/Electronic/Spiral.wav
+/usr/share/scratch/Media/Sounds/Electronic/Laser1.wav
+/usr/share/scratch/Media/Sounds/Electronic/Zoop.wav
+/usr/share/scratch/Media/Sounds/Electronic/ComputerBeeps1.wav
+/usr/share/scratch/Media/Sounds/Electronic/Whoop.wav
+/usr/share/scratch/Media/Sounds/Electronic/DirtyWhir.wav
+/usr/share/scratch/Media/Sounds/Electronic/ComputerBeeps2.wav
+/usr/share/scratch/Media/Sounds/Electronic/Peculiar.mp3
+/usr/share/scratch/Media/Sounds/Electronic/SpaceRipple.wav
+/usr/share/scratch/Media/Sounds/Electronic/Laser2.wav
+/usr/share/scratch/Media/Sounds/Instruments
+/usr/share/scratch/Media/Sounds/Instruments/Tambura.wav
+/usr/share/scratch/Media/Sounds/Instruments/SpookyString.wav
+/usr/share/scratch/Media/Sounds/Instruments/Trumpet2.wav
+/usr/share/scratch/Media/Sounds/Instruments/StringAccent.wav
+/usr/share/scratch/Media/Sounds/Instruments/GuitarStrum.wav
+/usr/share/scratch/Media/Sounds/Instruments/Chord.wav
+/usr/share/scratch/Media/Sounds/Instruments/Dijjeridoo.mp3
+/usr/share/scratch/Media/Sounds/Instruments/AfroString.wav
+/usr/share/scratch/Media/Sounds/Instruments/StringPluck.wav
+/usr/share/scratch/Media/Sounds/Instruments/Suspense.wav
+/usr/share/scratch/Media/Sounds/Instruments/Trumpet1.wav
+/usr/share/scratch/Media/Sounds/Effects
+/usr/share/scratch/Media/Sounds/Effects/DoorClose.mp3
+/usr/share/scratch/Media/Sounds/Effects/MotorcyclePassing.wav
+/usr/share/scratch/Media/Sounds/Effects/Rattle.wav
+/usr/share/scratch/Media/Sounds/Effects/WaterDrop.mp3
+/usr/share/scratch/Media/Sounds/Effects/BellToll.wav
+/usr/share/scratch/Media/Sounds/Effects/DoorCreak.wav
+/usr/share/scratch/Media/Sounds/Effects/SewingMachine.mp3
+/usr/share/scratch/Media/Sounds/Effects/CarPassing.wav
+/usr/share/scratch/Media/Sounds/Effects/Plunge.wav
+/usr/share/scratch/Media/Sounds/Effects/WaterRunning.mp3
+/usr/share/scratch/Media/Sounds/Effects/BalloonScratch.mp3
+/usr/share/scratch/Media/Sounds/Effects/Typing.mp3
+/usr/share/scratch/Media/Sounds/Effects/Bubbles.wav
+/usr/share/scratch/Media/Sounds/Effects/Pop.wav
+/usr/share/scratch/Media/Sounds/Effects/Ripples.wav
+/usr/share/scratch/Media/Sounds/Animal
+/usr/share/scratch/Media/Sounds/Animal/Owl.wav
+/usr/share/scratch/Media/Sounds/Animal/Cricket.wav
+/usr/share/scratch/Media/Sounds/Animal/Crickets.wav
+/usr/share/scratch/Media/Sounds/Animal/Goose.wav
+/usr/share/scratch/Media/Sounds/Animal/SeaLion.mp3
+/usr/share/scratch/Media/Sounds/Animal/Dog1.wav
+/usr/share/scratch/Media/Sounds/Animal/Cat.mp3
+/usr/share/scratch/Media/Sounds/Animal/Kitten.wav
+/usr/share/scratch/Media/Sounds/Animal/Meow.wav
+/usr/share/scratch/Media/Sounds/Animal/Rooster.wav
+/usr/share/scratch/Media/Sounds/Animal/Horse.wav
+/usr/share/scratch/Media/Sounds/Animal/Duck.wav
+/usr/share/scratch/Media/Sounds/Animal/Bird.wav
+/usr/share/scratch/Media/Sounds/Animal/HorseGallop.wav
+/usr/share/scratch/Media/Sounds/Animal/Dog2.wav
+/usr/share/scratch/Media/Sounds/Animal/WolfHowl.wav
+/usr/share/scratch/Media/Sounds/Vocals
+/usr/share/scratch/Media/Sounds/Vocals/BeatBox1.wav
+/usr/share/scratch/Media/Sounds/Vocals/Join-us.mp3
+/usr/share/scratch/Media/Sounds/Vocals/Ya.wav
+/usr/share/scratch/Media/Sounds/Vocals/Singer1.wav
+/usr/share/scratch/Media/Sounds/Vocals/Singer2.wav
+/usr/share/scratch/Media/Sounds/Vocals/Got-inspiration.mp3
+/usr/share/scratch/Media/Sounds/Vocals/Sing-me-a-song.mp3
+/usr/share/scratch/Media/Sounds/Vocals/Hey-yay-hey.mp3
+/usr/share/scratch/Media/Sounds/Vocals/Come-and-play.mp3
+/usr/share/scratch/Media/Sounds/Vocals/Doy-doy-doy.mp3
+/usr/share/scratch/Media/Sounds/Vocals/BeatBox2.wav
+/usr/share/scratch/Media/Sounds/Vocals/Oooo-badada.mp3
+/usr/share/scratch/Media/Sounds/Music Loops
+/usr/share/scratch/Media/Sounds/Music Loops/Techno2.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/Drum.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/xylo4.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/DrumMachine.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/GuitarChords2.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/Techno.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/DrumSet2.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/Jungle.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/DripDrop.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/Xylo2.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/HumanBeatbox2.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/Triumph.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/Cave.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/Xylo3.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/Eggs.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/HumanBeatbox1.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/Medieval2.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/Xylo1.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/Medieval1.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/HipHop.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/GuitarChords1.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/Garden.mp3
+/usr/share/scratch/Media/Sounds/Music Loops/DrumSet1.mp3
+/usr/share/scratch/Media/Costumes
+/usr/share/scratch/Media/Costumes/Animals
+/usr/share/scratch/Media/Costumes/Animals/zebra1.png
+/usr/share/scratch/Media/Costumes/Animals/cat4.png
+/usr/share/scratch/Media/Costumes/Animals/cat1-b.gif
+/usr/share/scratch/Media/Costumes/Animals/whale1.gif
+/usr/share/scratch/Media/Costumes/Animals/bee1.gif
+/usr/share/scratch/Media/Costumes/Animals/parrot1-a.png
+/usr/share/scratch/Media/Costumes/Animals/elephant1-b.png
+/usr/share/scratch/Media/Costumes/Animals/elephant1-a.png
+/usr/share/scratch/Media/Costumes/Animals/butterfly2.png
+/usr/share/scratch/Media/Costumes/Animals/dog1-b.png
+/usr/share/scratch/Media/Costumes/Animals/scratchthumbs.db
+/usr/share/scratch/Media/Costumes/Animals/insect1-a.gif
+/usr/share/scratch/Media/Costumes/Animals/cow1.gif
+/usr/share/scratch/Media/Costumes/Animals/shark1-b.png
+/usr/share/scratch/Media/Costumes/Animals/horse1-a.png
+/usr/share/scratch/Media/Costumes/Animals/bat2-b.png
+/usr/share/scratch/Media/Costumes/Animals/duck1.png
+/usr/share/scratch/Media/Costumes/Animals/butterfly1-b.png
+/usr/share/scratch/Media/Costumes/Animals/crab1-a.png
+/usr/share/scratch/Media/Costumes/Animals/cat5.gif
+/usr/share/scratch/Media/Costumes/Animals/cub1.png
+/usr/share/scratch/Media/Costumes/Animals/horse2.png
+/usr/share/scratch/Media/Costumes/Animals/shark1-c.png
+/usr/share/scratch/Media/Costumes/Animals/dog2-c.png
+/usr/share/scratch/Media/Costumes/Animals/squirrel1.png
+/usr/share/scratch/Media/Costumes/Animals/clam1.png
+/usr/share/scratch/Media/Costumes/Animals/fish4.png
+/usr/share/scratch/Media/Costumes/Animals/mouse1.png
+/usr/share/scratch/Media/Costumes/Animals/shark1-a.png
+/usr/share/scratch/Media/Costumes/Animals/Gravity Cat.sprite
+/usr/share/scratch/Media/Costumes/Animals/horse1-b.png
+/usr/share/scratch/Media/Costumes/Animals/butterfly1-a.png
+/usr/share/scratch/Media/Costumes/Animals/lioness1.png
+/usr/share/scratch/Media/Costumes/Animals/dinosaur2.png
+/usr/share/scratch/Media/Costumes/Animals/bat1-b.png
+/usr/share/scratch/Media/Costumes/Animals/dog2-b.png
+/usr/share/scratch/Media/Costumes/Animals/fox1.png
+/usr/share/scratch/Media/Costumes/Animals/parrot1-b.png
+/usr/share/scratch/Media/Costumes/Animals/lobster1.png
+/usr/share/scratch/Media/Costumes/Animals/crab2.gif
+/usr/share/scratch/Media/Costumes/Animals/starfish1-b.png
+/usr/share/scratch/Media/Costumes/Animals/Running Ant.sprite
+/usr/share/scratch/Media/Costumes/Animals/octopus1-a.png
+/usr/share/scratch/Media/Costumes/Animals/buffalo1.gif
+/usr/share/scratch/Media/Costumes/Animals/grasshopper1.gif
+/usr/share/scratch/Media/Costumes/Animals/insect1-b.gif
+/usr/share/scratch/Media/Costumes/Animals/bird-flying.gif
+/usr/share/scratch/Media/Costumes/Animals/starfish1-a.png
+/usr/share/scratch/Media/Costumes/Animals/bat2-a.png
+/usr/share/scratch/Media/Costumes/Animals/cat3.png
+/usr/share/scratch/Media/Costumes/Animals/butterfly3.png
+/usr/share/scratch/Media/Costumes/Animals/monkey1.png
+/usr/share/scratch/Media/Costumes/Animals/crab1-b.png
+/usr/share/scratch/Media/Costumes/Animals/Follow-mouse Fish.sprite
+/usr/share/scratch/Media/Costumes/Animals/giraffe1-b.gif
+/usr/share/scratch/Media/Costumes/Animals/dog2-a.png
+/usr/share/scratch/Media/Costumes/Animals/hippo1.png
+/usr/share/scratch/Media/Costumes/Animals/lion1-a.png
+/usr/share/scratch/Media/Costumes/Animals/bat1-a.png
+/usr/share/scratch/Media/Costumes/Animals/cat1-a.gif
+/usr/share/scratch/Media/Costumes/Animals/Crawling Ant.sprite
+/usr/share/scratch/Media/Costumes/Animals/cat2.gif
+/usr/share/scratch/Media/Costumes/Animals/grasshopper2.gif
+/usr/share/scratch/Media/Costumes/Animals/dog1-a.png
+/usr/share/scratch/Media/Costumes/Animals/elephant.gif
+/usr/share/scratch/Media/Costumes/Animals/rabbit1.png
+/usr/share/scratch/Media/Costumes/Animals/octopus1-b.png
+/usr/share/scratch/Media/Costumes/Animals/insect2.gif
+/usr/share/scratch/Media/Costumes/Animals/dinosaur1.png
+/usr/share/scratch/Media/Costumes/Animals/fish1-a.gif
+/usr/share/scratch/Media/Costumes/Animals/lion1-b.png
+/usr/share/scratch/Media/Costumes/Animals/fish3.png
+/usr/share/scratch/Media/Costumes/Animals/fish2.png
+/usr/share/scratch/Media/Costumes/Animals/frog1.gif
+/usr/share/scratch/Media/Costumes/Animals/fish1-b.gif
+/usr/share/scratch/Media/Costumes/Animals/giraffe1-a.gif
+/usr/share/scratch/Media/Costumes/Fantasy
+/usr/share/scratch/Media/Costumes/Fantasy/fantasy8.png
+/usr/share/scratch/Media/Costumes/Fantasy/fantasy5.png
+/usr/share/scratch/Media/Costumes/Fantasy/fairy.png
+/usr/share/scratch/Media/Costumes/Fantasy/ghost2-b.png
+/usr/share/scratch/Media/Costumes/Fantasy/dragon2.gif
+/usr/share/scratch/Media/Costumes/Fantasy/scratchthumbs.db
+/usr/share/scratch/Media/Costumes/Fantasy/robot2.png
+/usr/share/scratch/Media/Costumes/Fantasy/fantasy14.png
+/usr/share/scratch/Media/Costumes/Fantasy/ghost1.png
+/usr/share/scratch/Media/Costumes/Fantasy/wizard1.png
+/usr/share/scratch/Media/Costumes/Fantasy/skull1.png
+/usr/share/scratch/Media/Costumes/Fantasy/fantasy2.png
+/usr/share/scratch/Media/Costumes/Fantasy/fantasy4.png
+/usr/share/scratch/Media/Costumes/Fantasy/gobo1.gif
+/usr/share/scratch/Media/Costumes/Fantasy/fantasy7.png
+/usr/share/scratch/Media/Costumes/Fantasy/JetPack Girl.sprite
+/usr/share/scratch/Media/Costumes/Fantasy/ghost2-a.png
+/usr/share/scratch/Media/Costumes/Fantasy/snowman2.png
+/usr/share/scratch/Media/Costumes/Fantasy/fantasy11.png
+/usr/share/scratch/Media/Costumes/Fantasy/knight1.png
+/usr/share/scratch/Media/Costumes/Fantasy/ghoul1-a.png
+/usr/share/scratch/Media/Costumes/Fantasy/Painting Unicorn.sprite
+/usr/share/scratch/Media/Costumes/Fantasy/fantasy1-a.png
+/usr/share/scratch/Media/Costumes/Fantasy/robot3.gif
+/usr/share/scratch/Media/Costumes/Fantasy/witch1.png
+/usr/share/scratch/Media/Costumes/Fantasy/monkeyking.png
+/usr/share/scratch/Media/Costumes/Fantasy/unicorn1.png
+/usr/share/scratch/Media/Costumes/Fantasy/fantasy6.png
+/usr/share/scratch/Media/Costumes/Fantasy/Growing Dragon.sprite
+/usr/share/scratch/Media/Costumes/Fantasy/monster1-b.png
+/usr/share/scratch/Media/Costumes/Fantasy/fantasy1-b.png
+/usr/share/scratch/Media/Costumes/Fantasy/fantasy12.png
+/usr/share/scratch/Media/Costumes/Fantasy/wild1.png
+/usr/share/scratch/Media/Costumes/Fantasy/Jump-flip Monster.sprite
+/usr/share/scratch/Media/Costumes/Fantasy/sun.gif
+/usr/share/scratch/Media/Costumes/Fantasy/fantasy13.png
+/usr/share/scratch/Media/Costumes/Fantasy/troll1.png
+/usr/share/scratch/Media/Costumes/Fantasy/monster1-a.png
+/usr/share/scratch/Media/Costumes/Fantasy/gobo2.gif
+/usr/share/scratch/Media/Costumes/Fantasy/dragon1-a.png
+/usr/share/scratch/Media/Costumes/Fantasy/robot1.png
+/usr/share/scratch/Media/Costumes/Fantasy/gobo3.gif
+/usr/share/scratch/Media/Costumes/Fantasy/fantasy10.png
+/usr/share/scratch/Media/Costumes/Fantasy/snowman1.png
+/usr/share/scratch/Media/Costumes/Fantasy/Jumping Jack.sprite
+/usr/share/scratch/Media/Costumes/Fantasy/ghoul1-b.png
+/usr/share/scratch/Media/Costumes/Fantasy/fantasy9.png
+/usr/share/scratch/Media/Costumes/Fantasy/dragon1-b.png
+/usr/share/scratch/Media/Costumes/Fantasy/fantasy3.png
+/usr/share/scratch/Media/Costumes/People
+/usr/share/scratch/Media/Costumes/People/amon1.gif
+/usr/share/scratch/Media/Costumes/People/breakdancer-3.gif
+/usr/share/scratch/Media/Costumes/People/ballerina-c.png
+/usr/share/scratch/Media/Costumes/People/cassy-sitting-1.gif
+/usr/share/scratch/Media/Costumes/People/chamak1.gif
+/usr/share/scratch/Media/Costumes/People/ballerina-b.png
+/usr/share/scratch/Media/Costumes/People/dan3.gif
+/usr/share/scratch/Media/Costumes/People/breakdancer-4.gif
+/usr/share/scratch/Media/Costumes/People/scratchthumbs.db
+/usr/share/scratch/Media/Costumes/People/princess1.png
+/usr/share/scratch/Media/Costumes/People/boy4-walking-b.gif
+/usr/share/scratch/Media/Costumes/People/breakdancer3.gif
+/usr/share/scratch/Media/Costumes/People/breakdancer-1.gif
+/usr/share/scratch/Media/Costumes/People/girl2-shouting.gif
+/usr/share/scratch/Media/Costumes/People/marissa-sitting.gif
+/usr/share/scratch/Media/Costumes/People/anna-2.gif
+/usr/share/scratch/Media/Costumes/People/chamak2.gif
+/usr/share/scratch/Media/Costumes/People/paul1.gif
+/usr/share/scratch/Media/Costumes/People/thai-dancer.gif
+/usr/share/scratch/Media/Costumes/People/squaregirl.png
+/usr/share/scratch/Media/Costumes/People/baby.png
+/usr/share/scratch/Media/Costumes/People/cassy-standing-1.gif
+/usr/share/scratch/Media/Costumes/People/singer1.png
+/usr/share/scratch/Media/Costumes/People/calvrett-jumping.gif
+/usr/share/scratch/Media/Costumes/People/anjuli-4.gif
+/usr/share/scratch/Media/Costumes/People/Whirling Girl.sprite
+/usr/share/scratch/Media/Costumes/People/breakdancer1.gif
+/usr/share/scratch/Media/Costumes/People/boycurly.png
+/usr/share/scratch/Media/Costumes/People/referee1.gif
+/usr/share/scratch/Media/Costumes/People/calvrett.gif
+/usr/share/scratch/Media/Costumes/People/nathan.gif
+/usr/share/scratch/Media/Costumes/People/girl2-standing.gif
+/usr/share/scratch/Media/Costumes/People/squareguy.png
+/usr/share/scratch/Media/Costumes/People/womanbun.png
+/usr/share/scratch/Media/Costumes/People/girl3-basketball.gif
+/usr/share/scratch/Media/Costumes/People/Dancer.sprite
+/usr/share/scratch/Media/Costumes/People/dan6.gif
+/usr/share/scratch/Media/Costumes/People/breakdancer-2.gif
+/usr/share/scratch/Media/Costumes/People/marissa-crouching.gif
+/usr/share/scratch/Media/Costumes/People/calvrett-thinking.gif
+/usr/share/scratch/Media/Costumes/People/mako-screaming.gif
+/usr/share/scratch/Media/Costumes/People/jodi1.gif
+/usr/share/scratch/Media/Costumes/People/dan4.gif
+/usr/share/scratch/Media/Costumes/People/cassy-dancing-4.gif
+/usr/share/scratch/Media/Costumes/People/mako-stop.gif
+/usr/share/scratch/Media/Costumes/People/anna-1.gif
+/usr/share/scratch/Media/Costumes/People/Walking Dude.sprite
+/usr/share/scratch/Media/Costumes/People/cassy-dancing-2.gif
+/usr/share/scratch/Media/Costumes/People/boy4-walking-a.gif
+/usr/share/scratch/Media/Costumes/People/womanwaving.png
+/usr/share/scratch/Media/Costumes/People/football-run.gif
+/usr/share/scratch/Media/Costumes/People/football-stand.gif
+/usr/share/scratch/Media/Costumes/People/boy4-walking-c.gif
+/usr/share/scratch/Media/Costumes/People/anjuli-2.gif
+/usr/share/scratch/Media/Costumes/People/girl1-walking.gif
+/usr/share/scratch/Media/Costumes/People/cassy-chillin.gif
+/usr/share/scratch/Media/Costumes/People/dan5.gif
+/usr/share/scratch/Media/Costumes/People/jodi2.gif
+/usr/share/scratch/Media/Costumes/People/roundman.png
+/usr/share/scratch/Media/Costumes/People/mako-laughing.gif
+/usr/share/scratch/Media/Costumes/People/cassy-dancing-1.gif
+/usr/share/scratch/Media/Costumes/People/girl3-standing.gif
+/usr/share/scratch/Media/Costumes/People/boy4-shrugging.gif
+/usr/share/scratch/Media/Costumes/People/girl5.gif
+/usr/share/scratch/Media/Costumes/People/ballerina-d.png
+/usr/share/scratch/Media/Costumes/People/dan2.gif
+/usr/share/scratch/Media/Costumes/People/breakdancer2.gif
+/usr/share/scratch/Media/Costumes/People/thai-dancer2.gif
+/usr/share/scratch/Media/Costumes/People/anna-3.gif
+/usr/share/scratch/Media/Costumes/People/girl4-sitting.gif
+/usr/share/scratch/Media/Costumes/People/anjuli-5.gif
+/usr/share/scratch/Media/Costumes/People/Talking Person.sprite
+/usr/share/scratch/Media/Costumes/People/ballerina-a.png
+/usr/share/scratch/Media/Costumes/People/ribbon-dancer.gif
+/usr/share/scratch/Media/Costumes/People/dan1.gif
+/usr/share/scratch/Media/Costumes/People/ed.gif
+/usr/share/scratch/Media/Costumes/People/boy4-laughing.gif
+/usr/share/scratch/Media/Costumes/People/marissa.gif
+/usr/share/scratch/Media/Costumes/People/cassy-jumping-2.gif
+/usr/share/scratch/Media/Costumes/People/prince1.png
+/usr/share/scratch/Media/Costumes/People/jay.gif
+/usr/share/scratch/Media/Costumes/People/anjuli-1.gif
+/usr/share/scratch/Media/Costumes/People/royalperson.png
+/usr/share/scratch/Media/Costumes/People/diver1.png
+/usr/share/scratch/Media/Costumes/People/boy4-walking-d.gif
+/usr/share/scratch/Media/Costumes/People/referee2.gif
+/usr/share/scratch/Media/Costumes/People/lee-fan.gif
+/usr/share/scratch/Media/Costumes/People/boyshorts.png
+/usr/share/scratch/Media/Costumes/People/boy2.gif
+/usr/share/scratch/Media/Costumes/People/cassy-jumping-1.gif
+/usr/share/scratch/Media/Costumes/People/cassy-phone-1.gif
+/usr/share/scratch/Media/Costumes/People/girl1-standing.gif
+/usr/share/scratch/Media/Costumes/People/girl3-running.gif
+/usr/share/scratch/Media/Costumes/People/cassy-dancing-3.gif
+/usr/share/scratch/Media/Costumes/People/prince2.png
+/usr/share/scratch/Media/Costumes/People/Gymnast.sprite
+/usr/share/scratch/Media/Costumes/People/boy1-standing.gif
+/usr/share/scratch/Media/Costumes/People/nina1.gif
+/usr/share/scratch/Media/Costumes/People/anjuli-3.gif
+/usr/share/scratch/Media/Costumes/People/sam.gif
+/usr/share/scratch/Media/Costumes/People/diver2.png
+/usr/share/scratch/Media/Costumes/People/boy3.gif
+/usr/share/scratch/Media/Costumes/People/boy1-walking.gif
+/usr/share/scratch/Media/Costumes/People/boy4-walking-e.gif
+/usr/share/scratch/Media/Costumes/People/girl4-standing.gif
+/usr/share/scratch/Media/Costumes/Transportation
+/usr/share/scratch/Media/Costumes/Transportation/scratchthumbs.db
+/usr/share/scratch/Media/Costumes/Transportation/sail-boat.gif
+/usr/share/scratch/Media/Costumes/Transportation/car-blue.gif
+/usr/share/scratch/Media/Costumes/Transportation/bike.gif
+/usr/share/scratch/Media/Costumes/Transportation/car1.png
+/usr/share/scratch/Media/Costumes/Transportation/convertible3.gif
+/usr/share/scratch/Media/Costumes/Transportation/yacht.gif
+/usr/share/scratch/Media/Costumes/Transportation/magiccarpet.png
+/usr/share/scratch/Media/Costumes/Transportation/helicopter1.png
+/usr/share/scratch/Media/Costumes/Transportation/convertible2.gif
+/usr/share/scratch/Media/Costumes/Transportation/convertible1.gif
+/usr/share/scratch/Media/Costumes/Transportation/street-cleaner-mit.png
+/usr/share/scratch/Media/Costumes/Transportation/Back-and-forth bus.sprite
+/usr/share/scratch/Media/Costumes/Transportation/airplane1.png
+/usr/share/scratch/Media/Costumes/Transportation/tug-boat.gif
+/usr/share/scratch/Media/Costumes/Transportation/car2.png
+/usr/share/scratch/Media/Costumes/Transportation/train.gif
+/usr/share/scratch/Media/Costumes/Transportation/car-cow.gif
+/usr/share/scratch/Media/Costumes/Transportation/airplane.gif
+/usr/share/scratch/Media/Costumes/Transportation/car-bug.gif
+/usr/share/scratch/Media/Costumes/Transportation/bus.gif
+/usr/share/scratch/Media/Costumes/Transportation/Rotating Car.sprite
+/usr/share/scratch/Media/Costumes/Transportation/Perspective Ship.sprite
+/usr/share/scratch/Media/Costumes/Letters
+/usr/share/scratch/Media/Costumes/Letters/digital
+/usr/share/scratch/Media/Costumes/Letters/digital/b.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/w.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/6.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/g.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/4.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/scratchthumbs.db
+/usr/share/scratch/Media/Costumes/Letters/digital/d.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/s.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/j.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/r.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/5.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/y.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/l.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/v.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/2.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/3.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/c.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/e.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/i.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/1.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/m.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/n.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/u.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/p.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/o.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/k.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/f.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/a.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/z.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/h.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/q.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/0.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/8.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/x.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/9.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/t.gif
+/usr/share/scratch/Media/Costumes/Letters/digital/7.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles
+/usr/share/scratch/Media/Costumes/Letters/bubbles/b.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/w.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/6.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/g.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/4.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/scratchthumbs.db
+/usr/share/scratch/Media/Costumes/Letters/bubbles/d.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/s.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/j.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/r.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/5.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/y.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/l.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/v.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/2.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/3.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/c.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/e.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/i.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/1.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/m.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/n.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/u.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/p.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/o.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/k.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/f.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/a.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/z.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/h.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/q.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/0.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/8.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/x.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/9.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/t.gif
+/usr/share/scratch/Media/Costumes/Letters/bubbles/7.gif
+/usr/share/scratch/Media/Costumes/Letters/stone
+/usr/share/scratch/Media/Costumes/Letters/stone/b.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/w.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/6.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/g.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/4.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/scratchthumbs.db
+/usr/share/scratch/Media/Costumes/Letters/stone/d.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/s.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/j.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/r.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/5.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/y.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/l.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/v.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/2.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/3.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/c.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/e.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/i.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/1.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/m.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/n.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/u.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/p.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/o.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/k.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/f.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/a.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/z.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/h.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/q.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/0.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/8.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/x.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/9.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/t.gif
+/usr/share/scratch/Media/Costumes/Letters/stone/7.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch
+/usr/share/scratch/Media/Costumes/Letters/scratch/b.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/w.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/6.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/g.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/4.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/scratchthumbs.db
+/usr/share/scratch/Media/Costumes/Letters/scratch/d.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/s.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/j.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/r.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/5.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/y.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/l.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/v.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/2.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/3.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/c.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/e.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/i.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/1.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/m.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/n.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/u.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/p.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/o.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/k.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/f.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/a.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/z.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/h.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/q.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/0.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/8.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/x.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/9.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/t.gif
+/usr/share/scratch/Media/Costumes/Letters/scratch/7.gif
+/usr/share/scratch/Media/Costumes/Letters/circles
+/usr/share/scratch/Media/Costumes/Letters/circles/b.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/w.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/6.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/g.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/4.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/scratchthumbs.db
+/usr/share/scratch/Media/Costumes/Letters/circles/d.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/s.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/j.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/r.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/5.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/y.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/l.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/v.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/2.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/3.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/c.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/e.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/i.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/1.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/m.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/n.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/u.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/p.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/o.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/k.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/f.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/a.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/z.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/h.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/q.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/0.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/8.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/x.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/9.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/t.gif
+/usr/share/scratch/Media/Costumes/Letters/circles/7.gif
+/usr/share/scratch/Media/Costumes/Letters/auto
+/usr/share/scratch/Media/Costumes/Letters/auto/b.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/w.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/6.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/g.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/4.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/scratchthumbs.db
+/usr/share/scratch/Media/Costumes/Letters/auto/d.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/s.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/j.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/r.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/5.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/y.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/l.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/v.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/2.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/3.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/c.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/e.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/i.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/1.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/m.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/n.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/u.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/p.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/o.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/k.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/f.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/a.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/z.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/h.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/q.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/0.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/8.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/x.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/9.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/t.gif
+/usr/share/scratch/Media/Costumes/Letters/auto/7.gif
+/usr/share/scratch/Media/Costumes/Letters/keys
+/usr/share/scratch/Media/Costumes/Letters/keys/b.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/w.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/6.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/g.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/4.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/scratchthumbs.db
+/usr/share/scratch/Media/Costumes/Letters/keys/d.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/s.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/j.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/r.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/5.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/y.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/l.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/v.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/2.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/3.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/c.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/e.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/i.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/1.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/m.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/n.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/u.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/p.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/o.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/k.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/f.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/a.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/z.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/h.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/q.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/0.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/8.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/x.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/9.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/t.gif
+/usr/share/scratch/Media/Costumes/Letters/keys/7.gif
+/usr/share/scratch/Media/Costumes/Letters/outline
+/usr/share/scratch/Media/Costumes/Letters/outline/b.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/w.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/g.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/scratchthumbs.db
+/usr/share/scratch/Media/Costumes/Letters/outline/d.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/s.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/j.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/r.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/y.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/l.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/v.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/c.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/e.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/i.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/m.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/n.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/u.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/p.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/o.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/k.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/f.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/a.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/z.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/h.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/q.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/x.gif
+/usr/share/scratch/Media/Costumes/Letters/outline/t.gif
+/usr/share/scratch/Media/Costumes/Letters/funky
+/usr/share/scratch/Media/Costumes/Letters/funky/b.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/w.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/6.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/g.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/4.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/scratchthumbs.db
+/usr/share/scratch/Media/Costumes/Letters/funky/d.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/s.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/j.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/r.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/5.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/y.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/l.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/v.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/2.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/3.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/c.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/e.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/i.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/1.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/m.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/n.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/u.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/p.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/o.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/k.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/f.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/a.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/z.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/h.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/q.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/0.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/8.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/x.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/9.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/t.gif
+/usr/share/scratch/Media/Costumes/Letters/funky/7.gif
+/usr/share/scratch/Media/Costumes/Letters/curly
+/usr/share/scratch/Media/Costumes/Letters/curly/b.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/w.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/6.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/g.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/4.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/scratchthumbs.db
+/usr/share/scratch/Media/Costumes/Letters/curly/d.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/s.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/j.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/r.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/5.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/y.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/l.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/v.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/2.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/3.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/c.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/e.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/i.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/1.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/m.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/n.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/u.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/p.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/o.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/k.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/f.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/a.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/z.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/h.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/q.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/0.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/8.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/x.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/9.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/t.gif
+/usr/share/scratch/Media/Costumes/Letters/curly/7.gif
+/usr/share/scratch/Media/Costumes/Things
+/usr/share/scratch/Media/Costumes/Things/Clock-hand.sprite
+/usr/share/scratch/Media/Costumes/Things/scream-O-meter.sprite
+/usr/share/scratch/Media/Costumes/Things/Drawing Pencil.sprite
+/usr/share/scratch/Media/Costumes/Things/partyhat2.png
+/usr/share/scratch/Media/Costumes/Things/cheesy-puffs.gif
+/usr/share/scratch/Media/Costumes/Things/wizardhat.png
+/usr/share/scratch/Media/Costumes/Things/scratchthumbs.db
+/usr/share/scratch/Media/Costumes/Things/Draggable.sprite
+/usr/share/scratch/Media/Costumes/Things/fruit_platter.gif
+/usr/share/scratch/Media/Costumes/Things/hair1.gif
+/usr/share/scratch/Media/Costumes/Things/bananas1.png
+/usr/share/scratch/Media/Costumes/Things/beachball1.png
+/usr/share/scratch/Media/Costumes/Things/Friction Marble.sprite
+/usr/share/scratch/Media/Costumes/Things/Following Arrow.sprite
+/usr/share/scratch/Media/Costumes/Things/baseball1.png
+/usr/share/scratch/Media/Costumes/Things/Gravity Marble.sprite
+/usr/share/scratch/Media/Costumes/Things/partyhat1.png
+/usr/share/scratch/Media/Costumes/Things/Clickable Drum.sprite
+/usr/share/scratch/Media/Costumes/Things/scoreboard.gif
+/usr/share/scratch/Media/Costumes/Things/lamp.gif
+/usr/share/scratch/Media/Costumes/Things/manhole.png
+/usr/share/scratch/Media/Costumes/Things/hair2.gif
+/usr/share/scratch/Media/Costumes/Things/marble-building.gif
+/usr/share/scratch/Media/Costumes/Things/umbrella.gif
+/usr/share/scratch/Media/Costumes/Things/mic.png
+/usr/share/scratch/Media/Costumes/Things/trampoline.gif
+/usr/share/scratch/Media/Costumes/Things/fortune_cookie.gif
+/usr/share/scratch/Media/Costumes/Things/flower-vase.gif
+/usr/share/scratch/Media/Costumes/Things/buttonPressed.gif
+/usr/share/scratch/Media/Costumes/Things/laptop.png
+/usr/share/scratch/Media/Costumes/Things/drum2.gif
+/usr/share/scratch/Media/Costumes/Things/sunglassF3.png
+/usr/share/scratch/Media/Costumes/Things/soccer1.png
+/usr/share/scratch/Media/Costumes/Things/sunglassF1.png
+/usr/share/scratch/Media/Costumes/Things/Disappearing Bananas.sprite
+/usr/share/scratch/Media/Costumes/Things/key1.png
+/usr/share/scratch/Media/Costumes/Things/drum1.gif
+/usr/share/scratch/Media/Costumes/Things/partyhat3.png
+/usr/share/scratch/Media/Costumes/Things/Touch-me Trampoline.sprite
+/usr/share/scratch/Media/Costumes/Things/fire-hydrant.gif
+/usr/share/scratch/Media/Costumes/Things/sunglassF4.png
+/usr/share/scratch/Media/Costumes/Things/Bouncy Ball.sprite
+/usr/share/scratch/Media/Costumes/Things/tennisball.png
+/usr/share/scratch/Media/Costumes/Things/lego.gif
+/usr/share/scratch/Media/Costumes/Things/sunglassF2.png
+/usr/share/scratch/Media/Costumes/Things/basketball.png
+/usr/share/scratch/Media/Costumes/Things/palmtree.gif
+/usr/share/scratch/Media/Costumes/Things/button.gif
+/usr/share/scratch/Media/Costumes/Things/rock.png
+/usr/share/scratch/Media/Costumes/Things/Click-N-Drag Basketball.sprite
+/usr/share/scratch/Media/Backgrounds
+/usr/share/scratch/Media/Backgrounds/xy-grid.gif
+/usr/share/scratch/Media/Backgrounds/scratchthumbs.db
+/usr/share/scratch/Media/Backgrounds/Sports
+/usr/share/scratch/Media/Backgrounds/Sports/football-field.jpg
+/usr/share/scratch/Media/Backgrounds/Sports/scratchthumbs.db
+/usr/share/scratch/Media/Backgrounds/Sports/basketball-court1-a.jpg
+/usr/share/scratch/Media/Backgrounds/Sports/basketball-court2.png
+/usr/share/scratch/Media/Backgrounds/Sports/playing-field.jpg
+/usr/share/scratch/Media/Backgrounds/Sports/basketball-court1-b.jpg
+/usr/share/scratch/Media/Backgrounds/Sports/tennis-backboard.jpg
+/usr/share/scratch/Media/Backgrounds/Sports/baseball-field.jpg
+/usr/share/scratch/Media/Backgrounds/Indoors
+/usr/share/scratch/Media/Backgrounds/Indoors/chalkboard.jpg
+/usr/share/scratch/Media/Backgrounds/Indoors/scratchthumbs.db
+/usr/share/scratch/Media/Backgrounds/Indoors/hall.jpg
+/usr/share/scratch/Media/Backgrounds/Indoors/room2.jpg
+/usr/share/scratch/Media/Backgrounds/Indoors/room1.jpg
+/usr/share/scratch/Media/Backgrounds/Indoors/kitchen.jpg
+/usr/share/scratch/Media/Backgrounds/Indoors/room3.jpg
+/usr/share/scratch/Media/Backgrounds/Indoors/bedroom2.gif
+/usr/share/scratch/Media/Backgrounds/Indoors/clothing-store.jpg
+/usr/share/scratch/Media/Backgrounds/Indoors/bedroom1.gif
+/usr/share/scratch/Media/Backgrounds/Indoors/party-room.jpg
+/usr/share/scratch/Media/Backgrounds/Indoors/spotlight-stage.jpg
+/usr/share/scratch/Media/Backgrounds/Indoors/the-movies-inside.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors
+/usr/share/scratch/Media/Backgrounds/Outdoors/school1.gif
+/usr/share/scratch/Media/Backgrounds/Outdoors/route66.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/scratchthumbs.db
+/usr/share/scratch/Media/Backgrounds/Outdoors/pool.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/night-city-with-street.gif
+/usr/share/scratch/Media/Backgrounds/Outdoors/train-tracks1.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/mural-faro.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/hay_field.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/atom-playground.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/driveway.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/building-fireproof.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/houses.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/silos.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/bench-with-view.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/wooden-house.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/all-sports-mural.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/boardwalk.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/parking-ramp.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/the-movies.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/school2.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/building-at-mit.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/train-tracks3.gif
+/usr/share/scratch/Media/Backgrounds/Outdoors/graffiti.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/brick-wall-and-stairs.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/castle.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/city-with-water.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/brick-wall1.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/village.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/city-with-water2.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/train-tracks2.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/brick-wall2.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/night-city.gif
+/usr/share/scratch/Media/Backgrounds/Outdoors/mansion.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/berkeley-mural.jpg
+/usr/share/scratch/Media/Backgrounds/Outdoors/hallway_outdoors.jpg
+/usr/share/scratch/Media/Backgrounds/Nature
+/usr/share/scratch/Media/Backgrounds/Nature/underwater.gif
+/usr/share/scratch/Media/Backgrounds/Nature/beach-malibu.jpg
+/usr/share/scratch/Media/Backgrounds/Nature/pathway.jpg
+/usr/share/scratch/Media/Backgrounds/Nature/scratchthumbs.db
+/usr/share/scratch/Media/Backgrounds/Nature/wave.jpg
+/usr/share/scratch/Media/Backgrounds/Nature/moon.jpg
+/usr/share/scratch/Media/Backgrounds/Nature/woods.gif
+/usr/share/scratch/Media/Backgrounds/Nature/flowers.gif
+/usr/share/scratch/Media/Backgrounds/Nature/gravel-desert.jpg
+/usr/share/scratch/Media/Backgrounds/Nature/water-and-rocks.jpg
+/usr/share/scratch/Media/Backgrounds/Nature/flower-bed.jpg
+/usr/share/scratch/Media/Backgrounds/Nature/hill.jpg
+/usr/share/scratch/Media/Backgrounds/Nature/desert.gif
+/usr/share/scratch/Media/Backgrounds/Nature/canyon.jpg
+/usr/share/scratch/Media/Backgrounds/Nature/woods-and-bench.jpg
+/usr/share/scratch/Media/Backgrounds/Nature/grand-canyon.jpg
+/usr/share/scratch/Media/Backgrounds/Nature/garden-rock.jpg
+/usr/share/scratch/Media/Backgrounds/Nature/stars.gif
+/usr/share/scratch/Media/Backgrounds/Nature/lake.jpg
+/usr/share/scratch/Media/Backgrounds/Nature/tree.jpg
+/usr/share/scratch/Media/Backgrounds/Nature/forest.jpg
+/usr/share/scratch/Scratch.ini
+/usr/share/scratch/Scratch20131203.image
+/usr/share/scratch/locale
+/usr/share/scratch/locale/uk.po
+/usr/share/scratch/locale/lt.po
+/usr/share/scratch/locale/pl.po
+/usr/share/scratch/locale/nl.po
+/usr/share/scratch/locale/he.po
+/usr/share/scratch/locale/zh_TW.po
+/usr/share/scratch/locale/rw.po
+/usr/share/scratch/locale/it.po
+/usr/share/scratch/locale/cs.po
+/usr/share/scratch/locale/mk.po
+/usr/share/scratch/locale/mn.po
+/usr/share/scratch/locale/no.po
+/usr/share/scratch/locale/eu.po
+/usr/share/scratch/locale/Scratch.pot
+/usr/share/scratch/locale/ja.po
+/usr/share/scratch/locale/ja_HIRA.po
+/usr/share/scratch/locale/is.po
+/usr/share/scratch/locale/hr.po
+/usr/share/scratch/locale/da.po
+/usr/share/scratch/locale/fi.po
+/usr/share/scratch/locale/ko.po
+/usr/share/scratch/locale/kn.po
+/usr/share/scratch/locale/fr.po
+/usr/share/scratch/locale/mr.po
+/usr/share/scratch/locale/es.po
+/usr/share/scratch/locale/ar.po
+/usr/share/scratch/locale/ro.po
+/usr/share/scratch/locale/ht.po
+/usr/share/scratch/locale/hu.po
+/usr/share/scratch/locale/id.po
+/usr/share/scratch/locale/et.po
+/usr/share/scratch/locale/zh_CN.po
+/usr/share/scratch/locale/fa.po
+/usr/share/scratch/locale/th.po
+/usr/share/scratch/locale/ne.po
+/usr/share/scratch/locale/tr.po
+/usr/share/scratch/locale/fr_CA.po
+/usr/share/scratch/locale/pt_BR.po
+/usr/share/scratch/locale/sk.po
+/usr/share/scratch/locale/bg.po
+/usr/share/scratch/locale/ms.po
+/usr/share/scratch/locale/ru.po
+/usr/share/scratch/locale/vi.po
+/usr/share/scratch/locale/sl.po
+/usr/share/scratch/locale/de.po
+/usr/share/scratch/locale/sv.po
+/usr/share/scratch/locale/ca.po
+/usr/share/scratch/locale/gl.po
+/usr/share/scratch/locale/pt.po
+/usr/share/scratch/locale/el.po
+/usr/share/scratch/Help
+/usr/share/scratch/Help/en
+/usr/share/scratch/Help/en/computeFunction_of_.gif
+/usr/share/scratch/Help/en/showBackground_.gif
+/usr/share/scratch/Help/en/glideSecs_toX_y_elapsed_from_.gif
+/usr/share/scratch/Help/en/or.gif
+/usr/share/scratch/Help/en/lessThan.gif
+/usr/share/scratch/Help/en/changePenHueBy_.gif
+/usr/share/scratch/Help/en/doForever.gif
+/usr/share/scratch/Help/en/pointTowards_.gif
+/usr/share/scratch/Help/en/variableChangeBy.gif
+/usr/share/scratch/Help/en/rest_elapsed_from_.gif
+/usr/share/scratch/Help/en/allMotorsOn.gif
+/usr/share/scratch/Help/en/changePenShadeBy_.gif
+/usr/share/scratch/Help/en/turnRight_.gif
+/usr/share/scratch/Help/en/noteOn_duration_elapsed_from_.gif
+/usr/share/scratch/Help/en/gotoSpriteOrMouse_.gif
+/usr/share/scratch/Help/en/stampCostume.gif
+/usr/share/scratch/Help/en/changeSizeBy_.gif
+/usr/share/scratch/Help/en/xpos_.gif
+/usr/share/scratch/Help/en/timerReset.gif
+/usr/share/scratch/Help/en/doBroadcastAndWait.gif
+/usr/share/scratch/Help/en/show.gif
+/usr/share/scratch/Help/en/addVariable.gif
+/usr/share/scratch/Help/en/touching_.gif
+/usr/share/scratch/Help/en/filterReset.gif
+/usr/share/scratch/Help/en/clearPenTrails.gif
+/usr/share/scratch/Help/en/keyHat.gif
+/usr/share/scratch/Help/en/setSizeTo_.gif
+/usr/share/scratch/Help/en/think_duration_elapsed_from_.gif
+/usr/share/scratch/Help/en/ypos.gif
+/usr/share/scratch/Help/en/addList.gif
+/usr/share/scratch/Help/en/timer.gif
+/usr/share/scratch/Help/en/ypos_.gif
+/usr/share/scratch/Help/en/equals.gif
+/usr/share/scratch/Help/en/setTempoTo_.gif
+/usr/share/scratch/Help/en/allscreens.html
+/usr/share/scratch/Help/en/and.gif
+/usr/share/scratch/Help/en/backgroundIndex.gif
+/usr/share/scratch/Help/en/stringLength_.gif
+/usr/share/scratch/Help/en/broadcast_.gif
+/usr/share/scratch/Help/en/stopAllSounds.gif
+/usr/share/scratch/Help/en/times.gif
+/usr/share/scratch/Help/en/doUntil.gif
+/usr/share/scratch/Help/en/getAttribute_of_.gif
+/usr/share/scratch/Help/en/greaterThan.gif
+/usr/share/scratch/Help/en/divide.gif
+/usr/share/scratch/Help/en/touchingColor_.gif
+/usr/share/scratch/Help/en/scale.gif
+/usr/share/scratch/Help/en/minus.gif
+/usr/share/scratch/Help/en/broadcastHat.gif
+/usr/share/scratch/Help/en/hide.gif
+/usr/share/scratch/Help/en/contentsOfList_.gif
+/usr/share/scratch/Help/en/doAsk.gif
+/usr/share/scratch/Help/en/color_sees_.gif
+/usr/share/scratch/Help/en/penColor_.gif
+/usr/share/scratch/Help/en/setMotorDirection_.gif
+/usr/share/scratch/Help/en/drum_duration_elapsed_from_.gif
+/usr/share/scratch/Help/en/gotoX_y_.gif
+/usr/share/scratch/Help/en/deleteLine_ofList_.gif
+/usr/share/scratch/Help/en/setPenHueTo_.gif
+/usr/share/scratch/Help/en/think_.gif
+/usr/share/scratch/Help/en/setGraphicEffect_to_.gif
+/usr/share/scratch/Help/en/doWaitUntil.gif
+/usr/share/scratch/Help/en/volume.gif
+/usr/share/scratch/Help/en/mouseY.gif
+/usr/share/scratch/Help/en/heading.gif
+/usr/share/scratch/Help/en/forward_.gif
+/usr/share/scratch/Help/en/keyPressed_.gif
+/usr/share/scratch/Help/en/startHat.gif
+/usr/share/scratch/Help/en/comeToFront.gif
+/usr/share/scratch/Help/en/mod.gif
+/usr/share/scratch/Help/en/images
+/usr/share/scratch/Help/en/images/scratch-logo.gif
+/usr/share/scratch/Help/en/images/support-site.gif
+/usr/share/scratch/Help/en/images/scratch-interface-1.gif
+/usr/share/scratch/Help/en/images/help-menu.gif
+/usr/share/scratch/Help/en/images/helpscreens-thumb.gif
+/usr/share/scratch/Help/en/images/getting-started-thumb.gif
+/usr/share/scratch/Help/en/changeVolumeBy_.gif
+/usr/share/scratch/Help/en/setLine_ofList_to_.gif
+/usr/share/scratch/Help/en/doIfElse.gif
+/usr/share/scratch/Help/en/changeTempoBy_.gif
+/usr/share/scratch/Help/en/variable.gif
+/usr/share/scratch/Help/en/lineCountOfList_.gif
+/usr/share/scratch/Help/en/deleteVariable.gif
+/usr/share/scratch/Help/en/allMotorsOff.gif
+/usr/share/scratch/Help/en/mouseX.gif
+/usr/share/scratch/Help/en/plus.gif
+/usr/share/scratch/Help/en/distanceTo_.gif
+/usr/share/scratch/Help/en/hideVariable_.gif
+/usr/share/scratch/Help/en/say_.gif
+/usr/share/scratch/Help/en/penSize_.gif
+/usr/share/scratch/Help/en/turnLeft_.gif
+/usr/share/scratch/Help/en/setVolumeTo_.gif
+/usr/share/scratch/Help/en/doRepeat.gif
+/usr/share/scratch/Help/en/nextCostume.gif
+/usr/share/scratch/Help/en/putPenUp.gif
+/usr/share/scratch/Help/en/letter_of_.gif
+/usr/share/scratch/Help/en/sensorPressed_.gif
+/usr/share/scratch/Help/en/sensor_.gif
+/usr/share/scratch/Help/en/concatenate_with_.gif
+/usr/share/scratch/Help/en/xpos.gif
+/usr/share/scratch/Help/en/deleteList.gif
+/usr/share/scratch/Help/en/wait_elapsed_from_.gif
+/usr/share/scratch/Help/en/showVariable_.gif
+/usr/share/scratch/Help/en/lookLike_.gif
+/usr/share/scratch/Help/en/mousePressed.gif
+/usr/share/scratch/Help/en/heading_.gif
+/usr/share/scratch/Help/en/nextBackground.gif
+/usr/share/scratch/Help/en/motorOnFor_elapsed_from_.gif
+/usr/share/scratch/Help/en/getLine_ofList_.gif
+/usr/share/scratch/Help/en/index.html
+/usr/share/scratch/Help/en/randomFrom_to_.gif
+/usr/share/scratch/Help/en/changePenSizeBy_.gif
+/usr/share/scratch/Help/en/mouseclickHat.gif
+/usr/share/scratch/Help/en/changeXposBy_.gif
+/usr/share/scratch/Help/en/isLoud.gif
+/usr/share/scratch/Help/en/insert_at_ofList_.gif
+/usr/share/scratch/Help/en/doReturn.gif
+/usr/share/scratch/Help/en/changeGraphicEffect_by_.gif
+/usr/share/scratch/Help/en/doForeverIf.gif
+/usr/share/scratch/Help/en/tempo.gif
+/usr/share/scratch/Help/en/say_duration_elapsed_from_.gif
+/usr/share/scratch/Help/en/list_contains_.gif
+/usr/share/scratch/Help/en/costumeIndex.gif
+/usr/share/scratch/Help/en/putPenDown.gif
+/usr/share/scratch/Help/en/stopAll.gif
+/usr/share/scratch/Help/en/midiInstrument_.gif
+/usr/share/scratch/Help/en/rounded.gif
+/usr/share/scratch/Help/en/variableSet.gif
+/usr/share/scratch/Help/en/playSound_.gif
+/usr/share/scratch/Help/en/startMotorPower_.gif
+/usr/share/scratch/Help/en/doIf.gif
+/usr/share/scratch/Help/en/not.gif
+/usr/share/scratch/Help/en/append_toList_.gif
+/usr/share/scratch/Help/en/goBackByLayers_.gif
+/usr/share/scratch/Help/en/soundLevel.gif
+/usr/share/scratch/Help/en/changeYposBy_.gif
+/usr/share/scratch/Help/en/doPlaySoundAndWait.gif
+/usr/share/scratch/Help/en/bounceOffEdge.gif
+/usr/share/scratch/Help/en/answer.gif
+/usr/share/scratch/Help/en/setPenShadeTo_.gif
+/usr/share/scratch/Projects
+/usr/share/scratch/Projects/Stories
+/usr/share/scratch/Projects/Stories/3 BowlOfMemories.sb
+/usr/share/scratch/Projects/Stories/4 CreationStory.sb
+/usr/share/scratch/Projects/Stories/6 WodunnesWorld.sb
+/usr/share/scratch/Projects/Stories/5 SNN#1.sb
+/usr/share/scratch/Projects/Stories/2 MadLibs.sb
+/usr/share/scratch/Projects/Stories/7 BeeStory.sb
+/usr/share/scratch/Projects/Stories/1 Joke.sb
+/usr/share/scratch/Projects/Simulations
+/usr/share/scratch/Projects/Simulations/8 BouncingMusicBalls.sb
+/usr/share/scratch/Projects/Simulations/1 Spinner.sb
+/usr/share/scratch/Projects/Simulations/4 MyLittleTown.sb
+/usr/share/scratch/Projects/Simulations/3 SoundGraph.sb
+/usr/share/scratch/Projects/Simulations/5 SimpleCircuit.sb
+/usr/share/scratch/Projects/Simulations/7 VirtualDog.sb
+/usr/share/scratch/Projects/Simulations/2 GravityBlocks.sb
+/usr/share/scratch/Projects/Simulations/6 WeatherSimulation.sb
+/usr/share/scratch/Projects/Interactive Art
+/usr/share/scratch/Projects/Interactive Art/6 WHEEE.sb
+/usr/share/scratch/Projects/Interactive Art/1 MonkeyDressUp.sb
+/usr/share/scratch/Projects/Interactive Art/2 ExpressionCreator.sb
+/usr/share/scratch/Projects/Interactive Art/8 ZenRockGarden.sb
+/usr/share/scratch/Projects/Interactive Art/5 MouseRecorder.sb
+/usr/share/scratch/Projects/Interactive Art/7 GardenSecret.sb
+/usr/share/scratch/Projects/Interactive Art/3 PlayWithYourFace.sb
+/usr/share/scratch/Projects/Interactive Art/4 Kaleidoscope.sb
+/usr/share/scratch/Projects/Games
+/usr/share/scratch/Projects/Games/6 FruitcraftRPG.sb
+/usr/share/scratch/Projects/Games/1 GuessingGame.sb
+/usr/share/scratch/Projects/Games/4 Pong.sb
+/usr/share/scratch/Projects/Games/8 ScrollingDemo.sb
+/usr/share/scratch/Projects/Games/7 BugOnAPlate.sb
+/usr/share/scratch/Projects/Games/5 MarbleRacer.sb
+/usr/share/scratch/Projects/Games/2 PacMan.sb
+/usr/share/scratch/Projects/Games/3 FishChomp.sb
+/usr/share/scratch/Projects/Music and Dance
+/usr/share/scratch/Projects/Music and Dance/1 RobotDance.sb
+/usr/share/scratch/Projects/Music and Dance/3 MelodyList.sb
+/usr/share/scratch/Projects/Music and Dance/7 CanYouDance.sb
+/usr/share/scratch/Projects/Music and Dance/5 DanceDressUp.sb
+/usr/share/scratch/Projects/Music and Dance/8 OceanMusicBox.sb
+/usr/share/scratch/Projects/Music and Dance/4 TwinkleTwinkle.sb
+/usr/share/scratch/Projects/Music and Dance/6 BreakDance.sb
+/usr/share/scratch/Projects/Music and Dance/2 ChickenNoodleSoup.sb
+/usr/share/scratch/Projects/Music and Dance/9 PianoMachine.sb
+/usr/share/scratch/Projects/Animation
+/usr/share/scratch/Projects/Animation/5 EweAndMe.sb
+/usr/share/scratch/Projects/Animation/1 Playground.sb
+/usr/share/scratch/Projects/Animation/7 Jellyfish.sb
+/usr/share/scratch/Projects/Animation/2 Ideas.sb
+/usr/share/scratch/Projects/Animation/3 Trampoline.sb
+/usr/share/scratch/Projects/Animation/8 DayDream.sb
+/usr/share/scratch/Projects/Animation/6 Aquarium.sb
+/usr/share/scratch/Projects/Animation/4 FunWithAnimation.sb
+/usr/share/scratch/Projects/Names
+/usr/share/scratch/Projects/Names/1 BouncingInitials.sb
+/usr/share/scratch/Projects/Names/6 ForMyLittleBrother.sb
+/usr/share/scratch/Projects/Names/7 Tamara.sb
+/usr/share/scratch/Projects/Names/2 Tamika.sb
+/usr/share/scratch/Projects/Names/5 WORDO.sb
+/usr/share/scratch/Projects/Names/3 NameSurprise.sb
+/usr/share/scratch/Projects/Names/4 NatalieDucks.sb
+/usr/share/scratch/Projects/Speak Up
+/usr/share/scratch/Projects/Speak Up/2 SaveTheBats.sb
+/usr/share/scratch/Projects/Speak Up/1 SmokingKills.sb
+/usr/share/scratch/Projects/Speak Up/5 E-Cocat'sEarthTips.sb
+/usr/share/scratch/Projects/Speak Up/4 OneDay.sb
+/usr/share/scratch/Projects/Speak Up/3 AgainstSpammers.sb
+/usr/share/scratch/Projects/Speak Up/6 GlobalWarming.sb
+/usr/share/scratch/Projects/Sensors and Motors
+/usr/share/scratch/Projects/Sensors and Motors/WeDo 3 Castle.sb
+/usr/share/scratch/Projects/Sensors and Motors/Sensorboard 4 FruitOPhone.sb
+/usr/share/scratch/Projects/Sensors and Motors/Sensorboard 2 Everything.sb
+/usr/share/scratch/Projects/Sensors and Motors/WeDo 5 FriendlyGator.sb
+/usr/share/scratch/Projects/Sensors and Motors/WeDo 4 Labyrinth.sb
+/usr/share/scratch/Projects/Sensors and Motors/Sensorboard 3 Trombone.sb
+/usr/share/scratch/Projects/Sensors and Motors/Sensorboard 1 Sunrise.sb
+/usr/share/scratch/Projects/Sensors and Motors/WeDo 1 MagicWand.sb
+/usr/share/scratch/Projects/Sensors and Motors/Sensorboard 5 Squish.sb
+/usr/share/scratch/Projects/Sensors and Motors/WeDo 2 Puppet.sb
+/usr/share/scratch/Projects/Greetings
+/usr/share/scratch/Projects/Greetings/8 HappyBirthdayPooja.sb
+/usr/share/scratch/Projects/Greetings/5 ForWodunne.sb
+/usr/share/scratch/Projects/Greetings/6 Christmas.sb
+/usr/share/scratch/Projects/Greetings/2 SaySorryToYourFriend.sb
+/usr/share/scratch/Projects/Greetings/7 Birthday.sb
+/usr/share/scratch/Projects/Greetings/1 HelloInManyLanguages.sb
+/usr/share/scratch/Projects/Greetings/3 Slideshow.sb
+/usr/share/scratch/Projects/Greetings/4 Celebration.sb
+/usr/share/mime
+/usr/share/mime/packages
+/usr/share/mime/packages/scratch.xml
+/usr/share/doc
+/usr/share/doc/scratch
+/usr/share/doc/scratch/ACKNOWLEDGEMENTS
+/usr/share/doc/scratch/changelog.Debian.gz
+/usr/share/doc/scratch/TRADEMARK_POLICY
+/usr/share/doc/scratch/NOTICE
+/usr/share/doc/scratch/buildinfo_all.gz
+/usr/share/doc/scratch/KNOWN-BUGS
+/usr/share/doc/scratch/README
+/usr/share/doc/scratch/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/scratch.1.gz

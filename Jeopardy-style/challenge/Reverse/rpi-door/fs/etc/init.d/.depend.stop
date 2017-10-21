@@ -1,0 +1,9 @@
+TARGETS = ifplugd fake-hwclock lightdm avahi-daemon plymouth urandom alsa-utils triggerhappy sendsigs rsyslog umountnfs.sh rpcbind nfs-common hwclock.sh networking umountfs umountroot halt reboot
+sendsigs: triggerhappy ifplugd alsa-utils plymouth lightdm avahi-daemon
+rsyslog: sendsigs avahi-daemon
+umountnfs.sh: triggerhappy ifplugd alsa-utils plymouth sendsigs rsyslog lightdm avahi-daemon
+networking: umountnfs.sh ifplugd rpcbind
+umountfs: hwclock.sh triggerhappy umountnfs.sh ifplugd urandom alsa-utils plymouth rpcbind networking lightdm avahi-daemon
+umountroot: umountfs fake-hwclock
+halt: umountroot
+reboot: umountroot

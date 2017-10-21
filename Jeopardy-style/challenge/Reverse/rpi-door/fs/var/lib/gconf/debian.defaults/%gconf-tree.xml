@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="apps">
+		<dir name="gksu">
+			<entry name="sudo-mode" mtime="1387572265" type="bool" value="true"/>
+		</dir>
+	</dir>
+	<dir name="desktop">
+		<dir name="gnome">
+			<dir name="interface">
+				<entry name="gtk_theme" mtime="1387572265" type="string">
+					<stringvalue>Adwaita</stringvalue>
+				</entry>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<form action="/poll">
+    <p>{{ data['question'] }}</p>
+    {{ data['fields'][0] }}
+    <input type="radio" value="Yes" name="field"/>
+    {{ data['fields'][1] }}
+    <input type="radio" value="No" name="field"/>
+    <input type="submit" value="V0te"/>
+</form>
+
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+#!/bin/sh
+set -e
+
+# remove dangling symlink leftover by lenny xpdf package weirdness
+# (this 'fix' can be safely removed for squeeze+1)
+test -h /usr/share/doc/xpdf && rm -f /usr/share/doc/xpdf || true
+test -h /usr/share/doc/xpdf-reader && rm -f /usr/share/doc/xpdf-reader || true
+
+

@@ -1,0 +1,26 @@
+#!/bin/bash
+#: Description: Post remove script for pifacedigital-scratch-handler.
+
+#=======================================================================
+# NAME: remove_desktop_icon
+# DESCRIPTION: Removes the desktop icon.
+#=======================================================================
+remove_desktop_icon() {
+    desktop_file='/home/pi/Desktop/pifacedigital-scratch-handler.desktop'
+    rm $desktop_file
+}
+
+#=======================================================================
+# MAIN
+#=======================================================================
+# check if the script is being run as root
+if [[ $EUID -ne 0 ]]
+then
+    printf 'This script must be run as root.\nExiting..\n'
+    exit 1
+fi
+
+# if we have a user 'pi'
+# if [[ $(grep -c pi /etc/passwd) -eq 1 ]]; then
+#     remove_desktop_icon
+# fi

@@ -1,0 +1,11 @@
+b69e6a8eabfb134d288612ccf45b8608  usr/bin/gdialog
+a0df29d23125b635fc4fd1228454fd9c  usr/bin/zenity
+71268f6c13e1c0828557f5598dbaaf4b  usr/share/doc/zenity/AUTHORS
+816616cb41b58eb240c2feebf00905ce  usr/share/doc/zenity/NEWS.gz
+b20594774642f6b01d2692d38caebb08  usr/share/doc/zenity/README
+2c15ccd184a542d31b5d4075acf00c98  usr/share/doc/zenity/THANKS.gz
+f322f9e0074d41d69f483ad12f72cb8f  usr/share/doc/zenity/TODO
+2fe311a3edbc9671499d1d05e5d7f4ab  usr/share/doc/zenity/changelog.Debian.gz
+3cfeab057bba02bcbb99f9fb211e9b67  usr/share/doc/zenity/changelog.gz
+7efb2947672db0e03c229f078836e4ac  usr/share/doc/zenity/copyright
+f42646ef81737af4d95ebb994d9c9d8a  usr/share/man/man1/zenity.1.gz

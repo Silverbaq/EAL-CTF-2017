@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libportmidi0
+/usr/share/doc/libportmidi0/changelog.Debian.gz
+/usr/share/doc/libportmidi0/changelog.gz
+/usr/share/doc/libportmidi0/copyright
+/usr/lib
+/usr/lib/libporttime.so.0.0.0
+/usr/lib/libportmidi.so.0.0.0
+/usr/lib/libporttime.so.0
+/usr/lib/libportmidi.so.0

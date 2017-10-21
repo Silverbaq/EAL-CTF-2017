@@ -1,0 +1,29 @@
+04/01/14 22:19:34 Xvnc version TightVNC-1.3.9
+04/01/14 22:19:34 Copyright (C) 2000-2007 TightVNC Group
+04/01/14 22:19:34 Copyright (C) 1999 AT&T Laboratories Cambridge
+04/01/14 22:19:34 All Rights Reserved.
+04/01/14 22:19:34 See http://www.tightvnc.com/ for information on TightVNC
+04/01/14 22:19:34 Desktop name 'X' (raspberrypi:0)
+04/01/14 22:19:34 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
+04/01/14 22:19:34 Listening for VNC connections on TCP port 5900
+Font directory '/usr/share/fonts/X11/75dpi/' not found - ignoring
+Font directory '/usr/share/fonts/X11/100dpi/' not found - ignoring
+Invalid MIT-MAGIC-COOKIE-1 keyxrdb: Can't open display ':0'
+Invalid MIT-MAGIC-COOKIE-1 keyxsetroot:  unable to open display ':0'
+
+04/01/14 22:19:43 Got connection from client 172.20.10.2
+04/01/14 22:19:43 Using protocol version 3.8
+04/01/14 22:19:43 Full-control authentication passed by 172.20.10.2
+04/01/14 22:19:43 Pixel format for client 172.20.10.2:
+04/01/14 22:19:43   32 bpp, depth 24, little endian
+04/01/14 22:19:43   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+04/01/14 22:19:43   no translation needed
+04/01/14 22:19:43 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+04/01/14 22:19:43 Using tight encoding for client 172.20.10.2
+04/01/14 22:19:43 rfbProcessClientNormalMessage: ignoring unknown encoding 8
+04/01/14 22:20:57 Client 172.20.10.2 gone
+04/01/14 22:20:57 Statistics:
+04/01/14 22:20:57   key events received 4, pointer events 516
+04/01/14 22:20:57   framebuffer updates 510, rectangles 1187, bytes 40708
+04/01/14 22:20:57     tight rectangles 1187, bytes 40708
+04/01/14 22:20:57   raw bytes equivalent 5926112, compression ratio 145.576103

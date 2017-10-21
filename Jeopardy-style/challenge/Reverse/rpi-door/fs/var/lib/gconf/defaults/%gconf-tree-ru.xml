@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="florence">
+				<dir name="style">
+					<entry name="focus_zoom">
+						<local_schema short_desc="Фактор масштабирования выбранной клавиши">
+							<longdesc>Фактор масштабирования выбранной клавиши</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+				<dir name="layout">
+					<entry name="extensions">
+						<local_schema short_desc="Список разделенных двоеточиями (:) расширений имен">
+							<longdesc>Список клавиатурных расширений имён (разделенных двоеточиями). расширени имен должны быть найдены в файл разметки</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="style">
+						<local_schema short_desc="Путь файла разметки стиля">
+							<longdesc>Файл стиля содержит стиль для отрисовки клавиш клавиатуры</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="file">
+						<local_schema short_desc="Путь к файлу разметки">
+							<longdesc>Файл разметки содержит разметку клавиш клавиатуры</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+				<dir name="colours">
+					<entry name="latched">
+						<local_schema short_desc="блокированный цвет">
+							<longdesc>Цвет запертых клавиш</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="mouseover">
+						<local_schema short_desc="Наведите курсор на цвет">
+							<longdesc>Подсвечивать клавишу при наведении курсора мыши</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="activated">
+						<local_schema short_desc="Активированный цвет">
+							<longdesc>Цвет нажатой клавиши</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="label_outline">
+						<local_schema short_desc="Цвет контура текста">
+							<longdesc>Цвет контура меток . Должен контрастировать с цветом метки для лучшей видимости.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="label">
+						<local_schema short_desc="Цвет текста">
+							<longdesc>Цвет меток клавиш</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="outline">
+						<local_schema short_desc="Цвет контура">
+							<longdesc>Цвет контура клавиш</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="key">
+						<local_schema short_desc="цвет клавиши">
+							<longdesc>Цвет клавиш</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+				<dir name="window">
+					<entry name="opacity">
+						<local_schema short_desc="Непрозрачность окна клавиатуры">
+							<longdesc>Установить прозрачность окна клавиатуры. Необходим композитный менеджер</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="keep_on_top">
+						<local_schema short_desc="Вернуть клавиатуру наверх.">
+							<longdesc>Периодически (каждую секунду) возвращать клавиатуру наверх. Полезно для менеджеров окон без поддержки автоскрытия.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="always_on_top">
+						<local_schema short_desc="Показывать клавиатуру поверх всех окон">
+							<longdesc>Окно клавиатуры поверх всех окон.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="task_bar">
+						<local_schema short_desc="Появляться в панели задач">
+							<longdesc>Показывать Florence в панели задач</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="keep_ratio">
+						<local_schema short_desc="Сохранять пропорции окна при изменении его размеров.">
+							<longdesc>Пропорции окна сохраняются при изменении размера окна.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="resizable">
+						<local_schema short_desc="Разрешить изменение размера окна">
+							<longdesc>Окно клавиатуры может масштабироваться мышью.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="decorated">
+						<local_schema short_desc="Показывать рамку окна">
+							<longdesc>Окно с заголовком и кнопками.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="transparent">
+						<local_schema short_desc="Прозрачный режим">
+							<longdesc>Видеть окна позади клавиатуры.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="ypos">
+						<local_schema short_desc="Позиция по оси Y">
+							<longdesc>Вертикальная позиция окна клавиатуры на экране (в пикселях)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="xpos">
+						<local_schema short_desc="Позиция по оси X">
+							<longdesc>Горизонтальная позиция окна клавиатуры на экране (в пикселях).</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+				<dir name="behaviour">
+					<entry name="startup_notification">
+						<local_schema short_desc="Показать уведомление при запуске.">
+							<longdesc>Показать уведомление при запуске для объяснения основ.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="ramble_button">
+						<local_schema short_desc="Используйте кнопку для активации перехода.">
+							<longdesc>Когда эта опция установлена, переход начинается по нажатию на кнопку. Нет необходимости в кнопке, если эта опция не установлена.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="ramble_timer">
+						<local_schema short_desc="Временной порог для времени режима перехода.">
+							<longdesc>Количество времени в миллисекундах перед автоматическим нажатием клавиши.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="ramble_threshold2">
+						<local_schema short_desc="Порог дистанции перехода для нескольких нажатых клавиш.">
+							<longdesc>Когда выбран метод ввода переход, это дистанция передвижения по клавише (по сравнению с её размером) для нажатия второй и следующие разы.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="ramble_threshold1">
+						<local_schema short_desc="Порог дистанции перехода для первой нажатой клавиши.">
+							<longdesc>Когда включен метод ввода переход, это дистанция возможного перемещения указателя по клавише (относительно её размера) до того, когда она нажмётся.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="ramble_algo">
+						<local_schema short_desc="Алгоритм перехода">
+							<longdesc>Установить алгоритм перехода. Доступные алгоритмы: дистанция и время.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timer">
+						<local_schema short_desc="Задержка авто-нажатия">
+							<longdesc>Время ожидания в миллисекундах, когда мышь находится над клавишей до её автоматического нажатия (когда выбран ввода таймер)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="input_method">
+						<local_schema short_desc="Метод ввода">
+							<longdesc>Установить метод ввода. Доступные методы: кнопка, таймер и переход.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="intermediate_icon">
+						<local_schema short_desc="Показывать промежуточный значок до вызова клавиатуры в режиме автоскрытия.">
+							<longdesc>Показывать промежуточный значок после нажатия на редактируемый объект. Нажмите на значок для показа текущей клавиатуры.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="move_to_widget">
+						<local_schema short_desc="Перемещать клавиатуру рядом с выбранным объектом">
+							<longdesc>Перемещать клавиатуру рядом с выбранным редактируемым объектом в режиме автоскрытия. Используется только когда автоскрытие активно.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="auto_hide">
+						<local_schema short_desc="Скрывать клавиатуру автоматически, когда она не требуется">
+							<longdesc>Florence будет автоматически скрываться при выборе нередактируемого объекта.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+			<dir name="gksu">
+				<entry name="save-keyring">
+					<local_schema short_desc="Брелок, в котором будут храниться пароли">
+						<longdesc>gksu использует названия брелока для своей работы. Обычно встречается название «session», такой брелок хранит пароли на время открытого сеанса. Также применяется брелок «default», в нём хранятся пароли в независимости от продолжительности сеанса.</longdesc>
+					</local_schema>
+				</entry>
+				<entry name="save-to-keyring">
+					<local_schema short_desc="Сохранить пароль в gnome-keyring">
+						<longdesc>gksu может сохранить набранный пароль в gnome-keyring, таким образом пользователю не надо будет вводить его каждый раз.</longdesc>
+					</local_schema>
+				</entry>
+				<entry name="display-no-pass-info">
+					<local_schema short_desc="Вывести сообщение, если не требуется ввод пароля">
+						<longdesc>Этот параметр определяет будет ли показано диалоговое окно, информирующее пользователя о том, что программа выполнятся без запроса пароля по некоторой причине.</longdesc>
+					</local_schema>
+				</entry>
+				<entry name="prompt">
+					<local_schema short_desc="Запрос на захват">
+						<longdesc>Этот параметр заставит gksu вывести пользователю запрос о захвате экрана перед вводом пароля. Заметим, что это происходит только если не указан параметр принудительного захвата (force-grab).</longdesc>
+					</local_schema>
+				</entry>
+				<entry name="sudo-mode">
+					<local_schema short_desc="Режим sudo">
+						<longdesc>Определяет, будет ли sudo использоваться как метод аутентификации по умолчанию. Также метод можно задать с помощью параметра -S или запустив «gksudo» вместо «gksu».</longdesc>
+					</local_schema>
+				</entry>
+				<entry name="force-grab">
+					<local_schema short_desc="Принудительно захватить клавиатуру и мышь">
+						<longdesc>Захватывать клавиатуру и мышь, даже если в командной строке присутствует аргумент «-g».</longdesc>
+					</local_schema>
+				</entry>
+				<entry name="disable-grab">
+					<local_schema short_desc="Отключить захват клавиатуры и мыши">
+						<longdesc>Определяет, будет ли отключён захват клавиатуры и мыши. Это может привести к несанкционированному получению вводимых с клавиатуры данных другими графическими приложениями, что приведёт к невозможности защиты от вредоносных программ, которые могут быть запущены в этот момент.</longdesc>
+					</local_schema>
+				</entry>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

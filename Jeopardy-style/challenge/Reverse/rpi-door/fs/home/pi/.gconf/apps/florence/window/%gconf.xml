@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="scaley" mtime="1435084486" type="float" value="20"/>
+	<entry name="scalex" mtime="1435084486" type="float" value="20"/>
+	<entry name="ypos" mtime="1435084489" type="int" value="379"/>
+	<entry name="xpos" mtime="1435084489" type="int" value="733"/>
+</gconf>

@@ -1,0 +1,5 @@
+a681172cb8306c151d0687dbc071d786  usr/lib/arm-linux-gnueabihf/libwayland-client.so.0.1.0
+4d8733523fc8b01e8c9ea411d9de2b15  usr/lib/arm-linux-gnueabihf/libwayland-cursor.so.0.0.0
+cc51646e3738285e9903985ce14c65d6  usr/lib/arm-linux-gnueabihf/libwayland-server.so.0.0.0
+44e0314a5c4d75f4c140221e7ec58266  usr/share/doc/libwayland0/changelog.Debian.gz
+66f2e857194d9a397e5d81fedef2fb99  usr/share/doc/libwayland0/copyright
