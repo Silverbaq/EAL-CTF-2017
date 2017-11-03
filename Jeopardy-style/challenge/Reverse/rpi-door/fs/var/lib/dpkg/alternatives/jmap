@@ -1,9 +1,0 @@
-auto
-/usr/bin/jmap
-jmap.1.gz
-/usr/share/man/man1/jmap.1.gz
-
-/usr/lib/jvm/jdk-7-oracle-armhf/bin/jmap
-317
-/usr/lib/jvm/jdk-7-oracle-armhf/man/man1/jmap.1.gz
-

@@ -1,4 +1,0 @@
-?package(qjackctl):needs="X11" section="Applications/Sound"\
-  title="JACK Control" command="/usr/bin/qjackctl" sort="$" \
-  icon="/usr/share/pixmaps/qjackctl.xpm"\
-  hints="JACK"

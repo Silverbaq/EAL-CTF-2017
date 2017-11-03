@@ -1,7 +1,0 @@
-embedded-library
-no-upstream-changelog
-image-file-in-usr-lib
-package-installs-python-pycache-dir
-python-script-but-no-python-dep
-wrong-path-for-interpreter usr/lib/pypy-upstream/lib-python/2.7/cgi.py
-executable-not-elf-or-script usr/lib/pypy-upstream/lib-python/2.7/idlelib/idle.bat

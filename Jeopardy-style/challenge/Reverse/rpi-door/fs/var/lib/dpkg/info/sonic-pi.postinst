@@ -1,4 +1,0 @@
-#!/bin/sh
-echo "Enabling /etc/security/limits.d/audio.conf for jackd2"
-echo "jackd2 jackd/tweak_rt_limits boolean true" | debconf-set-selections
-dpkg-reconfigure -f noninteractive jackd2

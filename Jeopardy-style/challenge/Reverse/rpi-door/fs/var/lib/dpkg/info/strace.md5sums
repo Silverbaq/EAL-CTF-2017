@@ -1,8 +1,0 @@
-c26c2fec58303073783b7c2aa35b3580  usr/bin/strace
-3d5fa7d6a6121f228f9b29f68843c900  usr/share/doc/strace/NEWS.gz
-c795722493fef9da4dd67587f04ff145  usr/share/doc/strace/TODO
-33a6df6ac384355d18f5e0ebd9b59f5b  usr/share/doc/strace/changelog.Debian.gz
-52d0698b63a1c678857a0ebff1062ebd  usr/share/doc/strace/changelog.gz
-a91da919c26fed0706f0949da48a565b  usr/share/doc/strace/copyright
-5e39e3b61e1eb7031917be69714a5a0a  usr/share/doc/strace/examples/strace-graph.gz
-c89f2a59b8ebfe7a60edeb150db14380  usr/share/man/man1/strace.1.gz

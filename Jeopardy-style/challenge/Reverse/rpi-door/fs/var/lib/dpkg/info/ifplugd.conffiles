@@ -1,5 +1,0 @@
-/etc/pm/sleep.d/74ifplugd
-/etc/init.d/ifplugd
-/etc/apm/scripts.d/ifplugd
-/etc/ifplugd/ifplugd.action
-/etc/ifplugd/action.d/ifupdown

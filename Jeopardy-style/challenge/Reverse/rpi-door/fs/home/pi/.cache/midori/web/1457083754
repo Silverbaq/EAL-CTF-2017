@@ -1,1 +1,0 @@
-if(!window['googleNDT_']){window['googleNDT_']=(new Date()).getTime();}window.googleAltLoader=1;document.write('<script src="//www.google.com/ads/search/module/ads/1.0/f5fecc4a1c9442867f6543d79a437162ea2447c3/n/domains.js" type="text/javascript"></script>');

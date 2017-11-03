@@ -1,8 +1,0 @@
-43f41074be247ca91b5608fc98c936bc  usr/bin/cpansign
-2c882c74eb467f0c531574e5a92a3310  usr/share/doc/libmodule-signature-perl/changelog.Debian.gz
-45392e29e509235eed5e250f76d24e94  usr/share/doc/libmodule-signature-perl/changelog.gz
-6ce866f3b941cc9d17785aba0774fdfd  usr/share/doc/libmodule-signature-perl/copyright
-c364401094edd7292c429c347bf41452  usr/share/doc/libmodule-signature-perl/examples/0-signature.t
-f0f672dc9de53dd982d7ff639e22e1fd  usr/share/man/man1/cpansign.1p.gz
-53837beedbf47bc204f5ce79e536efa0  usr/share/man/man3/Module::Signature.3pm.gz
-04c4a2fb9a7571f18d8f741f6322f610  usr/share/perl5/Module/Signature.pm

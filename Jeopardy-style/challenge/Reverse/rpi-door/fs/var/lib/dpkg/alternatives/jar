@@ -1,9 +1,0 @@
-auto
-/usr/bin/jar
-jar.1.gz
-/usr/share/man/man1/jar.1.gz
-
-/usr/lib/jvm/jdk-7-oracle-armhf/bin/jar
-317
-/usr/lib/jvm/jdk-7-oracle-armhf/man/man1/jar.1.gz
-

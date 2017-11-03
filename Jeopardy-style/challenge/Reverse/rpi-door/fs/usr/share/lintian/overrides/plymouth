@@ -1,2 +1,0 @@
-plymouth: dev-pkg-without-shlib-symlink
-plymouth: package-name-doesnt-match-sonames

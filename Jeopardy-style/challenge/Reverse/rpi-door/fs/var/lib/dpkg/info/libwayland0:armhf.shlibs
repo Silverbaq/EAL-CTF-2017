@@ -1,3 +1,0 @@
-libwayland-cursor 0 libwayland0 (>= 1.0.4)
-libwayland-server 0 libwayland0 (>= 1.0.4)
-libwayland-client 0 libwayland0 (>= 1.0.4)

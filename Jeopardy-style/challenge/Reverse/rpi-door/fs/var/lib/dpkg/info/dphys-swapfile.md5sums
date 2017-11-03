@@ -1,9 +1,0 @@
-b20579f2c8618504cf322b35d13c4431  sbin/dphys-swapfile
-a739030a72aef43958f0e1f4024937cb  usr/share/doc/dphys-swapfile/FAQ
-8e2c0ec600f41df578a3dd71aea89092  usr/share/doc/dphys-swapfile/NEWS.Debian.gz
-8ef219605903fe18c766c6cf88f1d7ce  usr/share/doc/dphys-swapfile/README
-c982b7e79546cee28a6633c465995d37  usr/share/doc/dphys-swapfile/changelog.Debian.gz
-5cefddf0009750849162377b988588aa  usr/share/doc/dphys-swapfile/copyright
-c9772b474fed967bfef9f4b9ce5f1051  usr/share/doc/dphys-swapfile/examples/dphys-swapfile.example
-21ada6574a8b6d1c093ee51a256c5682  usr/share/doc/dphys-swapfile/examples/init.d.example
-89152f92036a2c220bf9b399c799f51c  usr/share/man/man8/dphys-swapfile.8.gz

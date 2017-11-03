@@ -1,9 +1,0 @@
-auto
-/usr/bin/orbd
-orbd.1.gz
-/usr/share/man/man1/orbd.1.gz
-
-/usr/lib/jvm/jdk-7-oracle-armhf/jre/bin/orbd
-317
-/usr/lib/jvm/jdk-7-oracle-armhf/man/man1/orbd.1.gz
-
