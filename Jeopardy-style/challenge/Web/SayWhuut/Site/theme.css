@@ -1,0 +1,12 @@
+body {
+background-image: url("hearts.gif");
+}
+
+h1 {
+	color: Red;
+	font-size: 72px;
+}
+
+.center {
+     text-align: center;
+}
