@@ -1,0 +1,3 @@
+flag: eal{ArE_U_a_WiZ@rd_?}
+
+fake-flag: eal{Tr0lls_Com3_From_Norway_Stup1d!}
