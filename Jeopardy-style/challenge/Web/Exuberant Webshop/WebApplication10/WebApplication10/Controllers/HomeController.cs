@@ -21,9 +21,11 @@ namespace WebApplication10.Controllers
         [HttpPost]
         public IActionResult Index(int amount)
         {
-            const int pricePerItem = 100;
-            price = pricePerItem * amount;
-
+         if (amount > 0)
+            {
+                const int pricePerItem = 100;
+                price = pricePerItem * amount;
+            }
             return View((object)price);
         }
 
