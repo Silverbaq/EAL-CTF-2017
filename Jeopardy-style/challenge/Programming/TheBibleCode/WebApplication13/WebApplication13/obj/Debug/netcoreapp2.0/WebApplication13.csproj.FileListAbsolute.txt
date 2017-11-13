@@ -1,0 +1,11 @@
+C:\Users\sist\Documents\Visual Studio 2017\Projects\WebApplication13\WebApplication13\bin\Debug\netcoreapp2.0\WebApplication13.deps.json
+C:\Users\sist\Documents\Visual Studio 2017\Projects\WebApplication13\WebApplication13\bin\Debug\netcoreapp2.0\WebApplication13.runtimeconfig.json
+C:\Users\sist\Documents\Visual Studio 2017\Projects\WebApplication13\WebApplication13\bin\Debug\netcoreapp2.0\WebApplication13.runtimeconfig.dev.json
+C:\Users\sist\Documents\Visual Studio 2017\Projects\WebApplication13\WebApplication13\bin\Debug\netcoreapp2.0\WebApplication13.dll
+C:\Users\sist\Documents\Visual Studio 2017\Projects\WebApplication13\WebApplication13\bin\Debug\netcoreapp2.0\WebApplication13.pdb
+C:\Users\sist\Documents\Visual Studio 2017\Projects\WebApplication13\WebApplication13\obj\Debug\netcoreapp2.0\WebApplication13.csprojResolveAssemblyReference.cache
+C:\Users\sist\Documents\Visual Studio 2017\Projects\WebApplication13\WebApplication13\obj\Debug\netcoreapp2.0\WebApplication13.csproj.CoreCompileInputs.cache
+C:\Users\sist\Documents\Visual Studio 2017\Projects\WebApplication13\WebApplication13\obj\Debug\netcoreapp2.0\WebApplication13.AssemblyInfoInputs.cache
+C:\Users\sist\Documents\Visual Studio 2017\Projects\WebApplication13\WebApplication13\obj\Debug\netcoreapp2.0\WebApplication13.AssemblyInfo.cs
+C:\Users\sist\Documents\Visual Studio 2017\Projects\WebApplication13\WebApplication13\obj\Debug\netcoreapp2.0\WebApplication13.dll
+C:\Users\sist\Documents\Visual Studio 2017\Projects\WebApplication13\WebApplication13\obj\Debug\netcoreapp2.0\WebApplication13.pdb
