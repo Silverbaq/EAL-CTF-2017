@@ -1,9 +1,9 @@
 Point: 100
 
-The silly professor Simon decided to hide a very important key in a textfile. Since Simon didn't want anyone to know the content of the file,
-he encrypted the key very hard. 
-In order to be able to retrieve the key, Simon wrote a program that could decrypt the file... only problem was... 
-for some reason the program isn't working anymore. Simon had hardcoded the password for the encryption
-inside the executable, so that no one would be able to access it, however, Simon no longer remebered what the password was :(
+Task: The silly professor Simon decided to hide a very important key in a text file. Since Simon didn't want anyone to know the content of the file,
+he encrypted the key very hard.
+In order to be able to retrieve the key, Simon wrote a program that could decrypt the file... the only problem was...
+for some reason, the program isn't working anymore. Simon had hardcoded the password for the encryption
+inside the executable so that no one would be able to access it, however, Simon no longer remembered what the password was :(
 
 Maybe you and your team can help Simon retrieve the key.

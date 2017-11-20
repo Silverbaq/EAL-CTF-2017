@@ -55,5 +55,5 @@ class SumServer(object):
 
 
 if __name__ == "__main__":
-    server = SumServer('localhost', 10000)
+    server = SumServer('0.0.0.0', 11101)
     server.start_server()

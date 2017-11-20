@@ -19,7 +19,7 @@ def clean():
 
 
 def check_votes(ip):
-    for x in range(999999):
+    for x in range(99999):
         pass
 
     if len(db[ip]) > 1:
@@ -72,4 +72,4 @@ def show_results():
 
 if __name__ == "__main__":
     atexit.register(clean)
-    app.run(host='0.0.0.0', threaded=True, debug=False, port=8005)
+    app.run(host='0.0.0.0', threaded=True, debug=False, port=11105)

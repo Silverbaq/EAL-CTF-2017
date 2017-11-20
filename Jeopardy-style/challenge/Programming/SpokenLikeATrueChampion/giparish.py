@@ -129,5 +129,5 @@ class GiparishServer(object):
 
 
 if __name__ == "__main__":
-    server = GiparishServer('localhost', 65432)
+    server = GiparishServer('0.0.0.0', 11103)
     server.start_server()

@@ -1,4 +1,4 @@
 Points: 75
 
-Task: Steffen got a new NAS Server. As we all know, that means that it will shortly be running all kinds of services and using all kinds of different technologies. So fare, he has setup afp for this Time Machine service as well as Samba for all this Microsoft needs (...Say what?...).
-While he was testing that his new setup was working, he recorded the traffic between he's NAS and has MacBook while it was doing a Time Mashine backup. Maybe you can help him out to analysis the data?
+Task: Steffen got a new NAS Server. As we all know, that means that it will shortly be running all kinds of services and using all kinds of different technologies. So far, he has setup afp for this Time Machine service as well as Samba for all this, Microsoft needs (...Say what?...).
+While he was testing that his new setup was working, he recorded the traffic between he's NAS and has MacBook while it was doing a Time Machine backup. Maybe you can help him out to analyze the data?

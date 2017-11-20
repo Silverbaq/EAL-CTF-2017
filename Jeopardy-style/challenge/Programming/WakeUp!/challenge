@@ -1,15 +1,15 @@
 Points: 300
 
-Steffen is a very exosted man, work all day, sleep some of the night - This means that he some times get stuck in this own thoughts. One day when he was working on a plan to take over the world, he kinda dozed off to a much happier place where everyone was nice to him and no one made fun of him for beeing so handsome and having such a beautiful body...
+Steffen is an exhausted man, work all day, sleep some of the night - This means that he sometimes get stuck in this own thoughts. One day when he was working on a plan to take over the world, he kinda dozed off to a much happier place where everyone was nice to him and no one made fun of him for being so handsome and having such a beautiful body...
 
-*** Long story short ***
+Long story short
 
-...To wake-up from this dreamland, he would have to take a long walk through an enchanted forrest with unicorns, trolls, elfs, scary clowns, extreamly cute ponies, an old man, trees (of course), pandecake houses and a lot of other good stuff.
-In this forest, there are a lot of different paths, some of them connected back and forth in interresting ways. Walking down one path will take a certain amount of time, which can be less then the more streight forward path (Hint! (or maybe not!)). For Steffen to get back to his evil plans, he needs to find the path that takes the shortest amount of time.
+...To wake-up from this dreamland, he would have to take a long walk through an enchanted forest with unicorns, trolls, elves, scary clowns, extremely cute ponies, an old man, trees (of course), pancake houses and a lot of other good stuff.
+In this forest, there are a lot of different paths, some of them connected back and forth in interesting ways. Walking down one path will take a certain amount of time, which can be less than the more straightforward path (Hint! (or maybe not!)). For Steffen to get back to his evil plans, he needs to find the path that takes the shortest amount of time.
 
-Task: You will be giving some different input. First you will recive X amount of lines consisting of three numbers. The first two numbers, are locations in the forrest that has a path between them, the third number is the amount of minuts it will take to walk this path.
+Task: You will be giving some different input. First, you will receive X amount of lines consisting of three numbers. The first two numbers are locations in the forest that has a path between them, the third number is the number of minutes it will take to walk this path.
 
-Next you will recive lines consisting of two numbers - Thise are the starting and ending point of every journey though the forrest. For everyone of thise, you will need to answer how quick it is possible to walk this journey. You result should be a single number.
+Next, you will receive lines consisting of two numbers - These are the starting and ending point of every journey through the forest. For every one of these, you will need to answer how quick it is possible to walk this journey. Your result should be a single number.
 
 e.g.:
 
@@ -24,3 +24,6 @@ Output:
 1
 1
 2
+
+Telnet Address: jlab13.eal.dk
+Port 11102

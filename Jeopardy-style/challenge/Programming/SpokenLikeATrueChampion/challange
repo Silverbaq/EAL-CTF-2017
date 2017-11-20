@@ -1,19 +1,20 @@
-Points: 100
+Points: 150
 
-Task: There is a lot of secrets at EAL these days. So to make sure that the students do not understand what they are talking about, they have invented their own spoken launguage, called "Gip-arish".
+Task: There is a lot of secrets at EAL these days. So to make sure that the students do not understand what they are talking about, they have invented their own spoken language, called "Gip-arish".
 
 Examples of Gip-arish:
 1: ejp mysljylc kd kxveddknmc re jsicpdrysi
 2: rbcpc ypc rtcsra dkh wyfrepkym veddknkmkrkcd
 3: de kr kd eoya kw aej tysr re ujdr lkgc jv
- 
+
 English:
 1: our language is impossible to understand
 2: there are twenty six factorial possibilities
 3: so it is okay if you want to just give up
- 
-Your task is to make an application that can translate "Gip-arish" into english, so that the staff at EAL cannot have any secrets for the students anymore.
 
-Connect to ***.***.***.*** port 65432
+Your task is to make an application that can translate "Gip-arish" into english so that the staff at EAL cannot have any secrets for the students anymore.
 
-You will get be provided with a line of "Gip-arish", you need to translate it into english and reply that back. This will continue X amount of times. If all the translations are correct, you will get the flag, if not, you will get "Wrong Answer!"
+You will get be provided with a line of "Gip-arish", you need to translate it into English and reply that back. This will continue X amount of times. If all the translations are correct, you will get the flag, if not, you will get "Wrong Answer!"
+
+Telnet address: jlab13.eal.dk
+Port: 11103

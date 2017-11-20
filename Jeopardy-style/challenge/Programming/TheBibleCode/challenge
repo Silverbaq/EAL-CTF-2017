@@ -1,7 +1,9 @@
-Point: 100
+Point: 125
 
-Legend has it, that if you take the Bible and set it up in an square with equi distant letters stripping it of numbers, punctuation and spaces; Starting at any letter and moving for instance 50 characters each time, then eventually you will find a prophecy. This technique is called “the Bible code”, and if you have never heard of it, check out Wikipedia https://en.wikipedia.org/wiki/Bible_code
-Well, as a matter of fact, Recent discoveries show that you can also find EAL-CTF flags in there by use of the same method. 
-Luckily we have an extract of Genesis chapter 1 of the latin bible Vulgata right here, set up in a monofont for you to play around with. If you find the flag you have to scramble the letters around, until you get a word that is 9 letters long - that, is your flag!
-- oh and I forgot to mention, that we threw in some squiggly brackets just to make things a little harder HAHAHA! 
+Legend has it, that if you take the Bible and set it up in a square with equidistant letters stripping it of numbers, punctuation, and spaces; Starting at any letter and moving for instance 50 characters each time, then eventually you will find a prophecy. This technique is called “the Bible code”, and if you have never heard of it, check out Wikipedia https://en.wikipedia.org/wiki/Bible_code
+Well, as a matter of fact, Recent discoveries show that you can also find EAL-CTF flags in there by use of the same method.
+Luckily we have an extract of Genesis chapter 1 of the Latin bible Vulgata right here, set up in a mono font for you to play around with. If you find the flag you have to scramble the letters around until you get a word that is 9 letters long - that is your flag!
+
+oh and I forgot to mention, that we threw in some squiggly brackets just to make things a little harder HAHAHA!
 Yes, Dan Brown didn't live for nothing!
+URL: http://biblecode.azurewebsites.net

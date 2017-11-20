@@ -88,5 +88,5 @@ class PathServer(object):
 
 
 if __name__ == "__main__":
-    server = PathServer('localhost', 10003)
+    server = PathServer('0.0.0.0', 11102)
     server.start_server()
