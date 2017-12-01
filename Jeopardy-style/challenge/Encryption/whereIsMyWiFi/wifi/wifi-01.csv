@@ -1,0 +1,8 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+B0:95:8E:77:52:59, 2017-11-16 11:44:31, 2017-11-16 11:44:52, 11,  54, WPA2 WPA, CCMP,PSK, -24,      169,       52,   0.  0.  0.  0,  12, TP-LINK_5259, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+C0:EE:FB:4A:7A:59, 2017-11-16 11:44:32, 2017-11-16 11:44:52, -50,      132, B0:95:8E:77:52:59,
+8C:85:90:16:C2:22, 2017-11-16 11:44:32, 2017-11-16 11:44:52, -42,       62, B0:95:8E:77:52:59,
+

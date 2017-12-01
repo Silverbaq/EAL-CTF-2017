@@ -71,7 +71,7 @@ class ClientHandler(object):
 
     def translate_to_gip(self, line):
         result = ''
-        for x in line:
+        for x in line.strip():
             i = eng.index(x)
             result += gip[i]
         return result
@@ -92,7 +92,7 @@ class ClientHandler(object):
                 self.connection.sendall('{}\n'.format(line))
 
                 data = self.connection.recv(1024)
-                if not self.check_solution(data, line):
+                if not self.check_solution(self.translate_to_gip(data), line):
                     flawless = False
 
             if flawless:
